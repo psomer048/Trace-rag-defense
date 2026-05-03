@@ -1,0 +1,26 @@
+{
+  "dataset": "popqa_subject_200",
+  "source_manifest": "results/query_manifests/popqa.json",
+  "corpus_type": "subject_page_leads",
+  "coverage": {
+    "total_queries": 200,
+    "queries_with_subject_title": 200,
+    "queries_with_fetched_subject_page": 199,
+    "queries_missing_subject_page": 1,
+    "subject_titles_total": 200,
+    "subject_titles_fetched_ok": 199,
+    "subject_titles_missing": 1,
+    "subject_titles_empty_extract": 0,
+    "subject_titles_error": 0
+  },
+  "title_fetch_stats": {
+    "ok": 199,
+    "missing": 1,
+    "empty_extract": 0,
+    "error": 0
+  },
+  "title_cache_path": "datasets/popqa_subject_200/title_cache.json",
+  "doc_count": 199,
+  "qrels_count": 199,
+  "build_elapsed": "00:22:52"
+}

@@ -1,0 +1,5452 @@
+{
+  "popqa_4222362": {
+    "id": "popqa_4222362",
+    "question": "What is George Rankin's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "George Rankin",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1850297,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q5543720",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "George Rankin",
+      "o_wiki_title": "Politician",
+      "s_pop": 142,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_16304924"
+    }
+  },
+  "popqa_4725190": {
+    "id": "popqa_4725190",
+    "question": "What is John Mayne's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "John Mayne",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 2079053,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q6247345",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "John Mayne",
+      "o_wiki_title": "Journalist",
+      "s_pop": 236,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_1098597"
+    }
+  },
+  "popqa_4382392": {
+    "id": "popqa_4382392",
+    "question": "What is Henry Feilden's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Henry Feilden",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1925450,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q5725578",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Henry Feilden (Conservative politician)",
+      "o_wiki_title": "Politician",
+      "s_pop": 58,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_30108267"
+    }
+  },
+  "popqa_4822110": {
+    "id": "popqa_4822110",
+    "question": "What is Kathy Saltzman's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Kathy Saltzman",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 2122743,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q6377295",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Kathy Saltzman",
+      "o_wiki_title": "Politician",
+      "s_pop": 127,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_23256856"
+    }
+  },
+  "popqa_4011112": {
+    "id": "popqa_4011112",
+    "question": "What is Eleanor Davis's occupation?",
+    "correct_answer": "cartoonist",
+    "correct_answers": [
+      "cartoonist",
+      "graphic artist",
+      "animator",
+      "illustrator"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Eleanor Davis",
+      "prop": "occupation",
+      "obj": "cartoonist",
+      "subj_id": 1752619,
+      "prop_id": 22,
+      "obj_id": 68412,
+      "s_uri": "http://www.wikidata.org/entity/Q5354261",
+      "o_uri": "http://www.wikidata.org/entity/Q1114448",
+      "s_wiki_title": "Eleanor Davis",
+      "o_wiki_title": "Cartoonist",
+      "s_pop": 317,
+      "o_pop": 9649,
+      "subject_doc_id": "popqa_subject_27077682"
+    }
+  },
+  "popqa_1730929": {
+    "id": "popqa_1730929",
+    "question": "What is Alexander Rinnooy Kan's occupation?",
+    "correct_answer": "mathematician",
+    "correct_answers": [
+      "mathematician",
+      "economist",
+      "economists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Alexander Rinnooy Kan",
+      "prop": "occupation",
+      "obj": "mathematician",
+      "subj_id": 765040,
+      "prop_id": 22,
+      "obj_id": 520646,
+      "s_uri": "http://www.wikidata.org/entity/Q2215214",
+      "o_uri": "http://www.wikidata.org/entity/Q170790",
+      "s_wiki_title": "Alexander Rinnooy Kan",
+      "o_wiki_title": "Mathematician",
+      "s_pop": 318,
+      "o_pop": 23111,
+      "subject_doc_id": "popqa_subject_26293316"
+    }
+  },
+  "popqa_276787": {
+    "id": "popqa_276787",
+    "question": "What is Scooter Braun's occupation?",
+    "correct_answer": "talent manager",
+    "correct_answers": [
+      "talent manager",
+      "artist manager",
+      "band manager",
+      "music manager",
+      "musician manager",
+      "manager",
+      "pop entrepreneur"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Scooter Braun",
+      "prop": "occupation",
+      "obj": "talent manager",
+      "subj_id": 111929,
+      "prop_id": 22,
+      "obj_id": 169656,
+      "s_uri": "http://www.wikidata.org/entity/Q1189670",
+      "o_uri": "http://www.wikidata.org/entity/Q1320883",
+      "s_wiki_title": "Scooter Braun",
+      "o_wiki_title": "Talent manager",
+      "s_pop": 66280,
+      "o_pop": 4624,
+      "subject_doc_id": "popqa_subject_27134463"
+    }
+  },
+  "popqa_1758574": {
+    "id": "popqa_1758574",
+    "question": "What is Leona Detiège's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Leona Detiège",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 777898,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q2261198",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Leona Detiège",
+      "o_wiki_title": "Politician",
+      "s_pop": 124,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_38953879"
+    }
+  },
+  "popqa_6339290": {
+    "id": "popqa_6339290",
+    "question": "What is William Murray, 1st Earl of Mansfield's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "William Murray, 1st Earl of Mansfield",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 2858390,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q869340",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "William Murray, 1st Earl of Mansfield",
+      "o_wiki_title": "Politician",
+      "s_pop": 5766,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_314445"
+    }
+  },
+  "popqa_6250781": {
+    "id": "popqa_6250781",
+    "question": "What is Þorsteinn Bachmann's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Þorsteinn Bachmann",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 2822184,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q8079549",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Þorsteinn Bachmann",
+      "o_wiki_title": "Actor",
+      "s_pop": 1252,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_10886952"
+    }
+  },
+  "popqa_1223902": {
+    "id": "popqa_1223902",
+    "question": "What is Herlyn Espinal's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Herlyn Espinal",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 544481,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q17412700",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "Herlyn Espinal",
+      "o_wiki_title": "Journalist",
+      "s_pop": 88,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_43368671"
+    }
+  },
+  "popqa_4607081": {
+    "id": "popqa_4607081",
+    "question": "What is Jacob Kraemer's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Jacob Kraemer",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 2031124,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q6118887",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Jacob Kraemer",
+      "o_wiki_title": "Actor",
+      "s_pop": 230,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_29316399"
+    }
+  },
+  "popqa_596555": {
+    "id": "popqa_596555",
+    "question": "What is Fred C. Newmeyer's occupation?",
+    "correct_answer": "film director",
+    "correct_answers": [
+      "film director",
+      "movie director",
+      "director",
+      "motion picture director",
+      "film producer",
+      "movie producer",
+      "producer",
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Fred C. Newmeyer",
+      "prop": "occupation",
+      "obj": "film director",
+      "subj_id": 244172,
+      "prop_id": 22,
+      "obj_id": 854535,
+      "s_uri": "http://www.wikidata.org/entity/Q1452243",
+      "o_uri": "http://www.wikidata.org/entity/Q2526255",
+      "s_wiki_title": "Fred C. Newmeyer",
+      "o_wiki_title": "Film director",
+      "s_pop": 461,
+      "o_pop": 45772,
+      "subject_doc_id": "popqa_subject_4760896"
+    }
+  },
+  "popqa_3994636": {
+    "id": "popqa_3994636",
+    "question": "What is Edward Corser's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Edward Corser",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1745623,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q5342416",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Edward Corser",
+      "o_wiki_title": "Politician",
+      "s_pop": 74,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_18588697"
+    }
+  },
+  "popqa_394743": {
+    "id": "popqa_394743",
+    "question": "What is Bae Geu-rin's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Bae Geu-rin",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 158813,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q12961881",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Bae Geu-rin",
+      "o_wiki_title": "Actor",
+      "s_pop": 505,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_43454482"
+    }
+  },
+  "popqa_4650739": {
+    "id": "popqa_4650739",
+    "question": "What is Javier Alva Orlandini's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Javier Alva Orlandini",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 2049382,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q6165409",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Javier Alva Orlandini",
+      "o_wiki_title": "Politician",
+      "s_pop": 169,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_36608962"
+    }
+  },
+  "popqa_1085496": {
+    "id": "popqa_1085496",
+    "question": "What is Edgar Allan Poe's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists",
+      "playwright",
+      "dramatist",
+      "playwrite",
+      "scriptwriter",
+      "poet",
+      "poetess",
+      "bard"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Edgar Allan Poe",
+      "prop": "occupation",
+      "obj": "playwright",
+      "subj_id": 468494,
+      "prop_id": 22,
+      "obj_id": 748919,
+      "s_uri": "http://www.wikidata.org/entity/Q16867",
+      "o_uri": "http://www.wikidata.org/entity/Q214917",
+      "s_wiki_title": "Edgar Allan Poe",
+      "o_wiki_title": "Playwright",
+      "s_pop": 287843,
+      "o_pop": 11213,
+      "subject_doc_id": "popqa_subject_9549"
+    }
+  },
+  "popqa_4711830": {
+    "id": "popqa_4711830",
+    "question": "What is John Finlay's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "John Finlay",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 2073748,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q6233155",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "John Finlay (Canadian politician)",
+      "o_wiki_title": "Politician",
+      "s_pop": 48,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_13290078"
+    }
+  },
+  "popqa_783368": {
+    "id": "popqa_783368",
+    "question": "What is John Floyd's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "John Floyd",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 334093,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q1572340",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "John Floyd (Georgia politician)",
+      "o_wiki_title": "Politician",
+      "s_pop": 370,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_2631543"
+    }
+  },
+  "popqa_2693461": {
+    "id": "popqa_2693461",
+    "question": "What is Sachiko Kokubu's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses",
+      "model",
+      "fashion model",
+      "sitter",
+      "poser"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Sachiko Kokubu",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 1159266,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q3545964",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Sachiko Kokubu",
+      "o_wiki_title": "Actor",
+      "s_pop": 115,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_18177511"
+    }
+  },
+  "popqa_4419938": {
+    "id": "popqa_4419938",
+    "question": "What is Rudolf Hilferding's occupation?",
+    "correct_answer": "economist",
+    "correct_answers": [
+      "economist",
+      "economists",
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Rudolf Hilferding",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1942931,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q57848",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Rudolf Hilferding",
+      "o_wiki_title": "Politician",
+      "s_pop": 2092,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_38646897"
+    }
+  },
+  "popqa_3696050": {
+    "id": "popqa_3696050",
+    "question": "What is Charles Strachey, 4th Baron O'Hagan's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Charles Strachey, 4th Baron O'Hagan",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1604798,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q5082715",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Charles Strachey, 4th Baron O'Hagan",
+      "o_wiki_title": "Politician",
+      "s_pop": 285,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_22855708"
+    }
+  },
+  "popqa_4651204": {
+    "id": "popqa_4651204",
+    "question": "What is Akari Hayami's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Akari Hayami",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 2049550,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q616579",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Akari Hayami",
+      "o_wiki_title": "Actor",
+      "s_pop": 2251,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_37858248"
+    }
+  },
+  "popqa_2605479": {
+    "id": "popqa_2605479",
+    "question": "What is Richard Martin's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Richard Martin",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 1122939,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q3431024",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Richard Martin (actor)",
+      "o_wiki_title": "Actor",
+      "s_pop": 381,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_22470998"
+    }
+  },
+  "popqa_839130": {
+    "id": "popqa_839130",
+    "question": "What is Harvey Peltier, Sr.'s occupation?",
+    "correct_answer": "lawyer",
+    "correct_answers": [
+      "lawyer",
+      "attorney",
+      "solicitor",
+      "barrister",
+      "lawyers",
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Harvey Peltier, Sr.",
+      "prop": "occupation",
+      "obj": "lawyer",
+      "subj_id": 357837,
+      "prop_id": 22,
+      "obj_id": 1263908,
+      "s_uri": "http://www.wikidata.org/entity/Q16008268",
+      "o_uri": "http://www.wikidata.org/entity/Q40348",
+      "s_wiki_title": "Harvey Peltier Sr.",
+      "o_wiki_title": "Lawyer",
+      "s_pop": 103,
+      "o_pop": 43223,
+      "subject_doc_id": "popqa_subject_40820038"
+    }
+  },
+  "popqa_5383283": {
+    "id": "popqa_5383283",
+    "question": "What is Paris's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Paris",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 2394184,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q7137192",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Paris (actor under Domitian)",
+      "o_wiki_title": "Actor",
+      "s_pop": 126,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_9289655"
+    }
+  },
+  "popqa_4087826": {
+    "id": "popqa_4087826",
+    "question": "What is Fairfax M. Cone's occupation?",
+    "correct_answer": "businessperson",
+    "correct_answers": [
+      "businessperson",
+      "business person",
+      "dealer",
+      "businesswoman",
+      "business man",
+      "business woman",
+      "businessman"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Fairfax M. Cone",
+      "prop": "occupation",
+      "obj": "businessperson",
+      "subj_id": 1788522,
+      "prop_id": 22,
+      "obj_id": 1310206,
+      "s_uri": "http://www.wikidata.org/entity/Q5430184",
+      "o_uri": "http://www.wikidata.org/entity/Q43845",
+      "s_wiki_title": "Fairfax M. Cone",
+      "o_wiki_title": "Businessperson",
+      "s_pop": 112,
+      "o_pop": 12939,
+      "subject_doc_id": "popqa_subject_2188083"
+    }
+  },
+  "popqa_3635613": {
+    "id": "popqa_3635613",
+    "question": "What is Colleen Zenk Pinter's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Colleen Zenk Pinter",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 1576917,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q5034036",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Colleen Zenk",
+      "o_wiki_title": "Actor",
+      "s_pop": 1718,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_707057"
+    }
+  },
+  "popqa_5982132": {
+    "id": "popqa_5982132",
+    "question": "What is Thomas McMurtry's occupation?",
+    "correct_answer": "test pilot",
+    "correct_answers": [
+      "test pilot"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Thomas McMurtry",
+      "prop": "occupation",
+      "obj": "test pilot",
+      "subj_id": 2685658,
+      "prop_id": 22,
+      "obj_id": 2472957,
+      "s_uri": "http://www.wikidata.org/entity/Q7792347",
+      "o_uri": "http://www.wikidata.org/entity/Q730242",
+      "s_wiki_title": "Thomas McMurtry",
+      "o_wiki_title": "Test pilot",
+      "s_pop": 152,
+      "o_pop": 8320,
+      "subject_doc_id": "popqa_subject_16613593"
+    }
+  },
+  "popqa_3261572": {
+    "id": "popqa_3261572",
+    "question": "What is Albert Bates's occupation?",
+    "correct_answer": "lawyer",
+    "correct_answers": [
+      "lawyer",
+      "attorney",
+      "solicitor",
+      "barrister",
+      "lawyers"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Albert Bates",
+      "prop": "occupation",
+      "obj": "lawyer",
+      "subj_id": 1399762,
+      "prop_id": 22,
+      "obj_id": 1263908,
+      "s_uri": "http://www.wikidata.org/entity/Q4709706",
+      "o_uri": "http://www.wikidata.org/entity/Q40348",
+      "s_wiki_title": "Albert Bates",
+      "o_wiki_title": "Lawyer",
+      "s_pop": 322,
+      "o_pop": 43223,
+      "subject_doc_id": "popqa_subject_2941083"
+    }
+  },
+  "popqa_857817": {
+    "id": "popqa_857817",
+    "question": "What is Heath's occupation?",
+    "correct_answer": "songwriter",
+    "correct_answers": [
+      "songwriter",
+      "song writer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Heath",
+      "prop": "occupation",
+      "obj": "songwriter",
+      "subj_id": 364481,
+      "prop_id": 22,
+      "obj_id": 2577376,
+      "s_uri": "http://www.wikidata.org/entity/Q1602025",
+      "o_uri": "http://www.wikidata.org/entity/Q753110",
+      "s_wiki_title": "Heath (musician)",
+      "o_wiki_title": "Songwriter",
+      "s_pop": 1132,
+      "o_pop": 25550,
+      "subject_doc_id": "popqa_subject_2712446"
+    }
+  },
+  "popqa_6206947": {
+    "id": "popqa_6206947",
+    "question": "What is Wise's occupation?",
+    "correct_answer": "record producer",
+    "correct_answers": [
+      "record producer",
+      "music producer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Wise",
+      "prop": "occupation",
+      "obj": "record producer",
+      "subj_id": 2798519,
+      "prop_id": 22,
+      "obj_id": 620958,
+      "s_uri": "http://www.wikidata.org/entity/Q8027436",
+      "o_uri": "http://www.wikidata.org/entity/Q183945",
+      "s_wiki_title": "Wise (Stetsasonic)",
+      "o_wiki_title": "Record producer",
+      "s_pop": 396,
+      "o_pop": 42844,
+      "subject_doc_id": "popqa_subject_5711592"
+    }
+  },
+  "popqa_2657379": {
+    "id": "popqa_2657379",
+    "question": "What is Stevie Cameron's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Stevie Cameron",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 1144831,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q3499310",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "Stevie Cameron",
+      "o_wiki_title": "Journalist",
+      "s_pop": 792,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_1572182"
+    }
+  },
+  "popqa_3835721": {
+    "id": "popqa_3835721",
+    "question": "What is Yoshiki Tonogai's occupation?",
+    "correct_answer": "mangaka",
+    "correct_answers": [
+      "mangaka",
+      "manga artist"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Yoshiki Tonogai",
+      "prop": "occupation",
+      "obj": "mangaka",
+      "subj_id": 1673785,
+      "prop_id": 22,
+      "obj_id": 657939,
+      "s_uri": "http://www.wikidata.org/entity/Q521706",
+      "o_uri": "http://www.wikidata.org/entity/Q191633",
+      "s_wiki_title": "Yoshiki Tonogai",
+      "o_wiki_title": "Manga artist",
+      "s_pop": 996,
+      "o_pop": 7223,
+      "subject_doc_id": "popqa_subject_10204180"
+    }
+  },
+  "popqa_4198902": {
+    "id": "popqa_4198902",
+    "question": "What is Geeling Ng's occupation?",
+    "correct_answer": "restaurateur",
+    "correct_answers": [
+      "restaurateur",
+      "gastronomist",
+      "restauranteur"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Geeling Ng",
+      "prop": "occupation",
+      "obj": "restaurateur",
+      "subj_id": 1841344,
+      "prop_id": 22,
+      "obj_id": 1121734,
+      "s_uri": "http://www.wikidata.org/entity/Q5529821",
+      "o_uri": "http://www.wikidata.org/entity/Q3427922",
+      "s_wiki_title": "Geeling Ng",
+      "o_wiki_title": "Restaurateur",
+      "s_pop": 1085,
+      "o_pop": 8848,
+      "subject_doc_id": "popqa_subject_25620484"
+    }
+  },
+  "popqa_3583128": {
+    "id": "popqa_3583128",
+    "question": "What is Bruce McDaniel's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Bruce McDaniel",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 1549859,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q4977981",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Bruce McDaniel",
+      "o_wiki_title": "Composer",
+      "s_pop": 91,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_8653206"
+    }
+  },
+  "popqa_5807710": {
+    "id": "popqa_5807710",
+    "question": "What is Thomas R. Whitney's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Thomas R. Whitney",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 2598395,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q759131",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Thomas R. Whitney",
+      "o_wiki_title": "Politician",
+      "s_pop": 162,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_11401168"
+    }
+  },
+  "popqa_4172941": {
+    "id": "popqa_4172941",
+    "question": "What is William Lescaze's occupation?",
+    "correct_answer": "architect",
+    "correct_answers": [
+      "architect"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "William Lescaze",
+      "prop": "occupation",
+      "obj": "architect",
+      "subj_id": 1829063,
+      "prop_id": 22,
+      "obj_id": 1296792,
+      "s_uri": "http://www.wikidata.org/entity/Q550725",
+      "o_uri": "http://www.wikidata.org/entity/Q42973",
+      "s_wiki_title": "William Lescaze",
+      "o_wiki_title": "Architect",
+      "s_pop": 503,
+      "o_pop": 28889,
+      "subject_doc_id": "popqa_subject_981174"
+    }
+  },
+  "popqa_2303897": {
+    "id": "popqa_2303897",
+    "question": "What is Edwin Wallock's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Edwin Wallock",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 1005161,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q3048825",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Edwin Wallock",
+      "o_wiki_title": "Actor",
+      "s_pop": 68,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_13488887"
+    }
+  },
+  "popqa_3121959": {
+    "id": "popqa_3121959",
+    "question": "What is Tsutomu Seki's occupation?",
+    "correct_answer": "astronomer",
+    "correct_answers": [
+      "astronomer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Tsutomu Seki",
+      "prop": "occupation",
+      "obj": "astronomer",
+      "subj_id": 1329397,
+      "prop_id": 22,
+      "obj_id": 64448,
+      "s_uri": "http://www.wikidata.org/entity/Q453649",
+      "o_uri": "http://www.wikidata.org/entity/Q11063",
+      "s_wiki_title": "Tsutomu Seki",
+      "o_wiki_title": "Astronomer",
+      "s_pop": 195,
+      "o_pop": 12368,
+      "subject_doc_id": "popqa_subject_631727"
+    }
+  },
+  "popqa_5120341": {
+    "id": "popqa_5120341",
+    "question": "What is Matthew McKay's occupation?",
+    "correct_answer": "dentist",
+    "correct_answers": [
+      "dentist",
+      "dentists",
+      "dental surgeon"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Matthew McKay",
+      "prop": "occupation",
+      "obj": "dentist",
+      "subj_id": 2263666,
+      "prop_id": 22,
+      "obj_id": 920325,
+      "s_uri": "http://www.wikidata.org/entity/Q6790954",
+      "o_uri": "http://www.wikidata.org/entity/Q27349",
+      "s_wiki_title": "Matthew McKay (politician)",
+      "o_wiki_title": "Dentist",
+      "s_pop": 63,
+      "o_pop": 16672,
+      "subject_doc_id": "popqa_subject_24072259"
+    }
+  },
+  "popqa_3931528": {
+    "id": "popqa_3931528",
+    "question": "What is Dominick Bellizzi's occupation?",
+    "correct_answer": "jockey",
+    "correct_answers": [
+      "jockey"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Dominick Bellizzi",
+      "prop": "occupation",
+      "obj": "jockey",
+      "subj_id": 1717158,
+      "prop_id": 22,
+      "obj_id": 2845473,
+      "s_uri": "http://www.wikidata.org/entity/Q5290903",
+      "o_uri": "http://www.wikidata.org/entity/Q846750",
+      "s_wiki_title": "Dominick Bellizzi",
+      "o_wiki_title": "Jockey",
+      "s_pop": 97,
+      "o_pop": 7581,
+      "subject_doc_id": "popqa_subject_12679577"
+    }
+  },
+  "popqa_3174290": {
+    "id": "popqa_3174290",
+    "question": "What is William Watson's occupation?",
+    "correct_answer": "physician",
+    "correct_answers": [
+      "physician",
+      "physicians",
+      "medical doctor",
+      "medical practitioner",
+      "doctor",
+      "medical doctors"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "William Watson",
+      "prop": "occupation",
+      "obj": "physician",
+      "subj_id": 1357911,
+      "prop_id": 22,
+      "obj_id": 1253162,
+      "s_uri": "http://www.wikidata.org/entity/Q462269",
+      "o_uri": "http://www.wikidata.org/entity/Q39631",
+      "s_wiki_title": "William Watson (scientist)",
+      "o_wiki_title": "Physician",
+      "s_pop": 510,
+      "o_pop": 48188,
+      "subject_doc_id": "popqa_subject_1921485"
+    }
+  },
+  "popqa_1917994": {
+    "id": "popqa_1917994",
+    "question": "What is Sarah Dawn Finer's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses",
+      "songwriter",
+      "song writer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Sarah Dawn Finer",
+      "prop": "occupation",
+      "obj": "songwriter",
+      "subj_id": 842627,
+      "prop_id": 22,
+      "obj_id": 2577376,
+      "s_uri": "http://www.wikidata.org/entity/Q248592",
+      "o_uri": "http://www.wikidata.org/entity/Q753110",
+      "s_wiki_title": "Sarah Dawn Finer",
+      "o_wiki_title": "Songwriter",
+      "s_pop": 766,
+      "o_pop": 25550,
+      "subject_doc_id": "popqa_subject_12821189"
+    }
+  },
+  "popqa_2224150": {
+    "id": "popqa_2224150",
+    "question": "What is Brendan Canty's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer",
+      "musician",
+      "musical artist"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Brendan Canty",
+      "prop": "occupation",
+      "obj": "musician",
+      "subj_id": 971262,
+      "prop_id": 22,
+      "obj_id": 2133594,
+      "s_uri": "http://www.wikidata.org/entity/Q2924425",
+      "o_uri": "http://www.wikidata.org/entity/Q639669",
+      "s_wiki_title": "Brendan Canty",
+      "o_wiki_title": "Musician",
+      "s_pop": 2680,
+      "o_pop": 20148,
+      "subject_doc_id": "popqa_subject_378533"
+    }
+  },
+  "popqa_1536600": {
+    "id": "popqa_1536600",
+    "question": "What is María Elena Marqués's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "María Elena Marqués",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 686774,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q1964025",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "María Elena Marqués",
+      "o_wiki_title": "Actor",
+      "s_pop": 839,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_20234760"
+    }
+  },
+  "popqa_2218017": {
+    "id": "popqa_2218017",
+    "question": "What is Michael Arad's occupation?",
+    "correct_answer": "architect",
+    "correct_answers": [
+      "architect"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Michael Arad",
+      "prop": "occupation",
+      "obj": "architect",
+      "subj_id": 968551,
+      "prop_id": 22,
+      "obj_id": 1296792,
+      "s_uri": "http://www.wikidata.org/entity/Q2915755",
+      "o_uri": "http://www.wikidata.org/entity/Q42973",
+      "s_wiki_title": "Michael Arad",
+      "o_wiki_title": "Architect",
+      "s_pop": 1131,
+      "o_pop": 28889,
+      "subject_doc_id": "popqa_subject_1058166"
+    }
+  },
+  "popqa_5394168": {
+    "id": "popqa_5394168",
+    "question": "What is Patrick O'Brien Demsey's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Patrick O'Brien Demsey",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 2398986,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q7147362",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Patrick O'Brien Demsey",
+      "o_wiki_title": "Actor",
+      "s_pop": 923,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_10304051"
+    }
+  },
+  "popqa_6539068": {
+    "id": "popqa_6539068",
+    "question": "What is Ole Krarup's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Ole Krarup",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 2933988,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q981321",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Ole Krarup",
+      "o_wiki_title": "Politician",
+      "s_pop": 61,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_1768856"
+    }
+  },
+  "popqa_1772720": {
+    "id": "popqa_1772720",
+    "question": "What is Antonio Álvarez Alonso's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer",
+      "pianist"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Antonio Álvarez Alonso",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 783955,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q2285330",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Antonio Álvarez Alonso",
+      "o_wiki_title": "Composer",
+      "s_pop": 75,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_32893368"
+    }
+  },
+  "popqa_3553522": {
+    "id": "popqa_3553522",
+    "question": "What is Boutheina Jabnoun's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Boutheina Jabnoun",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 1536079,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q4950442",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "Boutheina Jabnoun Marai",
+      "o_wiki_title": "Journalist",
+      "s_pop": 57,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_29926868"
+    }
+  },
+  "popqa_970059": {
+    "id": "popqa_970059",
+    "question": "What is Robert Viharo's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Robert Viharo",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 413193,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q16239300",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Robert Viharo",
+      "o_wiki_title": "Actor",
+      "s_pop": 1072,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_42434693"
+    }
+  },
+  "popqa_2092231": {
+    "id": "popqa_2092231",
+    "question": "What is Ankita Sharma's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Ankita Sharma",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 916240,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q2721495",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Ankita Mayank Sharma",
+      "o_wiki_title": "Actor",
+      "s_pop": 1494,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_29740710"
+    }
+  },
+  "popqa_2360504": {
+    "id": "popqa_2360504",
+    "question": "What is Robby Krieger's occupation?",
+    "correct_answer": "guitarist",
+    "correct_answers": [
+      "guitarist",
+      "guitar player",
+      "guitarists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Robby Krieger",
+      "prop": "occupation",
+      "obj": "guitarist",
+      "subj_id": 1028406,
+      "prop_id": 22,
+      "obj_id": 2850254,
+      "s_uri": "http://www.wikidata.org/entity/Q311900",
+      "o_uri": "http://www.wikidata.org/entity/Q855091",
+      "s_wiki_title": "Robby Krieger",
+      "o_wiki_title": "Guitarist",
+      "s_pop": 31792,
+      "o_pop": 6776,
+      "subject_doc_id": "popqa_subject_363963"
+    }
+  },
+  "popqa_6416076": {
+    "id": "popqa_6416076",
+    "question": "What is Paul's occupation?",
+    "correct_answer": "missionary",
+    "correct_answers": [
+      "missionary",
+      "Christian missionary"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Paul",
+      "prop": "occupation",
+      "obj": "missionary",
+      "subj_id": 2888455,
+      "prop_id": 22,
+      "obj_id": 760001,
+      "s_uri": "http://www.wikidata.org/entity/Q9200",
+      "o_uri": "http://www.wikidata.org/entity/Q219477",
+      "s_wiki_title": "Paul the Apostle",
+      "o_wiki_title": "Missionary",
+      "s_pop": 135900,
+      "o_pop": 20559,
+      "subject_doc_id": "popqa_subject_24140"
+    }
+  },
+  "popqa_130213": {
+    "id": "popqa_130213",
+    "question": "What is Shozaburo Nakamura's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Shozaburo Nakamura",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 51986,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q10856016",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Shozaburo Nakamura",
+      "o_wiki_title": "Politician",
+      "s_pop": 206,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_40895359"
+    }
+  },
+  "popqa_2311611": {
+    "id": "popqa_2311611",
+    "question": "What is Esquerita's occupation?",
+    "correct_answer": "pianist",
+    "correct_answers": [
+      "pianist",
+      "songwriter",
+      "song writer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Esquerita",
+      "prop": "occupation",
+      "obj": "songwriter",
+      "subj_id": 1008524,
+      "prop_id": 22,
+      "obj_id": 2577376,
+      "s_uri": "http://www.wikidata.org/entity/Q3058617",
+      "o_uri": "http://www.wikidata.org/entity/Q753110",
+      "s_wiki_title": "Esquerita",
+      "o_wiki_title": "Songwriter",
+      "s_pop": 1419,
+      "o_pop": 25550,
+      "subject_doc_id": "popqa_subject_3946594"
+    }
+  },
+  "popqa_3901091": {
+    "id": "popqa_3901091",
+    "question": "What is Derek Wheatley's occupation?",
+    "correct_answer": "novelist",
+    "correct_answers": [
+      "novelist",
+      "barrister",
+      "barrister-at-law",
+      "Bar-at-law"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Derek Wheatley",
+      "prop": "occupation",
+      "obj": "novelist",
+      "subj_id": 1702523,
+      "prop_id": 22,
+      "obj_id": 2202669,
+      "s_uri": "http://www.wikidata.org/entity/Q5262453",
+      "o_uri": "http://www.wikidata.org/entity/Q6625963",
+      "s_wiki_title": "Derek Wheatley",
+      "o_wiki_title": "Novelist",
+      "s_pop": 43,
+      "o_pop": 11157,
+      "subject_doc_id": "popqa_subject_23859940"
+    }
+  },
+  "popqa_837389": {
+    "id": "popqa_837389",
+    "question": "What is Herman A. Barnett's occupation?",
+    "correct_answer": "surgeon",
+    "correct_answers": [
+      "surgeon",
+      "surgeons"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Herman A. Barnett",
+      "prop": "occupation",
+      "obj": "surgeon",
+      "subj_id": 357213,
+      "prop_id": 22,
+      "obj_id": 2662279,
+      "s_uri": "http://www.wikidata.org/entity/Q16007345",
+      "o_uri": "http://www.wikidata.org/entity/Q774306",
+      "s_wiki_title": "Herman A. Barnett",
+      "o_wiki_title": "Surgeon",
+      "s_pop": 86,
+      "o_pop": 12671,
+      "subject_doc_id": "popqa_subject_39253484"
+    }
+  },
+  "popqa_2523400": {
+    "id": "popqa_2523400",
+    "question": "What is Modou Dia's occupation?",
+    "correct_answer": "diplomat",
+    "correct_answers": [
+      "diplomat",
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Modou Dia",
+      "prop": "occupation",
+      "obj": "diplomat",
+      "subj_id": 1090534,
+      "prop_id": 22,
+      "obj_id": 665281,
+      "s_uri": "http://www.wikidata.org/entity/Q3317947",
+      "o_uri": "http://www.wikidata.org/entity/Q193391",
+      "s_wiki_title": "Modou Dia",
+      "o_wiki_title": "Diplomat",
+      "s_pop": 51,
+      "o_pop": 14886,
+      "subject_doc_id": "popqa_subject_9735938"
+    }
+  },
+  "popqa_3275327": {
+    "id": "popqa_3275327",
+    "question": "What is Alex Krieps's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Alex Krieps",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1405573,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q4717326",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Alex Krieps",
+      "o_wiki_title": "Politician",
+      "s_pop": 261,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_14993145"
+    }
+  },
+  "popqa_1976296": {
+    "id": "popqa_1976296",
+    "question": "What is Veronica Franco's occupation?",
+    "correct_answer": "poet",
+    "correct_answers": [
+      "poet",
+      "poetess",
+      "bard"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Veronica Franco",
+      "prop": "occupation",
+      "obj": "poet",
+      "subj_id": 867986,
+      "prop_id": 22,
+      "obj_id": 1548606,
+      "s_uri": "http://www.wikidata.org/entity/Q257493",
+      "o_uri": "http://www.wikidata.org/entity/Q49757",
+      "s_wiki_title": "Veronica Franco",
+      "o_wiki_title": "Poet",
+      "s_pop": 5119,
+      "o_pop": 16182,
+      "subject_doc_id": "popqa_subject_37037"
+    }
+  },
+  "popqa_5052828": {
+    "id": "popqa_5052828",
+    "question": "What is Maev-Ann Wren's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Maev-Ann Wren",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 2232550,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q6729379",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "Maev-Ann Wren",
+      "o_wiki_title": "Journalist",
+      "s_pop": 138,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_28600359"
+    }
+  },
+  "popqa_5304362": {
+    "id": "popqa_5304362",
+    "question": "What is Norman Crowther Hunt, Baron Crowther-Hunt's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Norman Crowther Hunt, Baron Crowther-Hunt",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 2353987,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q7052125",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Norman Crowther Hunt, Baron Crowther-Hunt",
+      "o_wiki_title": "Politician",
+      "s_pop": 123,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_12783918"
+    }
+  },
+  "popqa_6110369": {
+    "id": "popqa_6110369",
+    "question": "What is Vincenzo Di Nicola's occupation?",
+    "correct_answer": "psychiatrist",
+    "correct_answers": [
+      "psychiatrist",
+      "alienist",
+      "head-shrinker",
+      "shrinker",
+      "psychologist",
+      "psychologists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Vincenzo Di Nicola",
+      "prop": "occupation",
+      "obj": "psychologist",
+      "subj_id": 2750360,
+      "prop_id": 22,
+      "obj_id": 744319,
+      "s_uri": "http://www.wikidata.org/entity/Q7932229",
+      "o_uri": "http://www.wikidata.org/entity/Q212980",
+      "s_wiki_title": "Vincenzo Di Nicola",
+      "o_wiki_title": "Psychologist",
+      "s_pop": 547,
+      "o_pop": 26129,
+      "subject_doc_id": "popqa_subject_35287093"
+    }
+  },
+  "popqa_6055820": {
+    "id": "popqa_6055820",
+    "question": "What is Tor Aulin's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Tor Aulin",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 2721561,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q786825",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Tor Aulin",
+      "o_wiki_title": "Composer",
+      "s_pop": 264,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_2845209"
+    }
+  },
+  "popqa_6384726": {
+    "id": "popqa_6384726",
+    "question": "What is Henry Tizard's occupation?",
+    "correct_answer": "chemist",
+    "correct_answers": [
+      "chemist",
+      "chemists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Henry Tizard",
+      "prop": "occupation",
+      "obj": "chemist",
+      "subj_id": 2875946,
+      "prop_id": 22,
+      "obj_id": 1988901,
+      "s_uri": "http://www.wikidata.org/entity/Q901295",
+      "o_uri": "http://www.wikidata.org/entity/Q593644",
+      "s_wiki_title": "Henry Tizard",
+      "o_wiki_title": "Chemist",
+      "s_pop": 1126,
+      "o_pop": 11827,
+      "subject_doc_id": "popqa_subject_614252"
+    }
+  },
+  "popqa_4251288": {
+    "id": "popqa_4251288",
+    "question": "What is Glenn Albrecht's occupation?",
+    "correct_answer": "philosopher",
+    "correct_answers": [
+      "philosopher"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Glenn Albrecht",
+      "prop": "occupation",
+      "obj": "philosopher",
+      "subj_id": 1862975,
+      "prop_id": 22,
+      "obj_id": 1543144,
+      "s_uri": "http://www.wikidata.org/entity/Q5568664",
+      "o_uri": "http://www.wikidata.org/entity/Q4964182",
+      "s_wiki_title": "Glenn Albrecht",
+      "o_wiki_title": "Philosopher",
+      "s_pop": 631,
+      "o_pop": 25747,
+      "subject_doc_id": "popqa_subject_15496910"
+    }
+  },
+  "popqa_1872067": {
+    "id": "popqa_1872067",
+    "question": "What is Thomas Hinds's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Thomas Hinds",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 823032,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q2424745",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Thomas Hinds",
+      "o_wiki_title": "Politician",
+      "s_pop": 326,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_9930064"
+    }
+  },
+  "popqa_1905981": {
+    "id": "popqa_1905981",
+    "question": "What is Tobias Lindholm's occupation?",
+    "correct_answer": "film director",
+    "correct_answers": [
+      "film director",
+      "movie director",
+      "director",
+      "motion picture director",
+      "screenwriter",
+      "scenarist",
+      "writer",
+      "screen writer",
+      "script writer",
+      "scriptwriter"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Tobias Lindholm",
+      "prop": "occupation",
+      "obj": "screenwriter",
+      "subj_id": 837430,
+      "prop_id": 22,
+      "obj_id": 945070,
+      "s_uri": "http://www.wikidata.org/entity/Q246996",
+      "o_uri": "http://www.wikidata.org/entity/Q28389",
+      "s_wiki_title": "Tobias Lindholm",
+      "o_wiki_title": "Screenwriter",
+      "s_pop": 2322,
+      "o_pop": 26544,
+      "subject_doc_id": "popqa_subject_38708200"
+    }
+  },
+  "popqa_4973369": {
+    "id": "popqa_4973369",
+    "question": "What is Lisa McRee's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Lisa McRee",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 2194081,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q6558261",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "Lisa McRee",
+      "o_wiki_title": "Journalist",
+      "s_pop": 1028,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_5081550"
+    }
+  },
+  "popqa_5582866": {
+    "id": "popqa_5582866",
+    "question": "What is Rick Gilmore's occupation?",
+    "correct_answer": "economist",
+    "correct_answers": [
+      "economist",
+      "economists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Rick Gilmore",
+      "prop": "occupation",
+      "obj": "economist",
+      "subj_id": 2488055,
+      "prop_id": 22,
+      "obj_id": 644197,
+      "s_uri": "http://www.wikidata.org/entity/Q7331416",
+      "o_uri": "http://www.wikidata.org/entity/Q188094",
+      "s_wiki_title": "Rick Gilmore",
+      "o_wiki_title": "Economist",
+      "s_pop": 156,
+      "o_pop": 12806,
+      "subject_doc_id": "popqa_subject_20138927"
+    }
+  },
+  "popqa_3154588": {
+    "id": "popqa_3154588",
+    "question": "What is Jon Eikemo's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Jon Eikemo",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 1346339,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q4587483",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Jon Eikemo",
+      "o_wiki_title": "Actor",
+      "s_pop": 75,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_5746731"
+    }
+  },
+  "popqa_1094065": {
+    "id": "popqa_1094065",
+    "question": "What is Jilly Cooper's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists",
+      "novelist"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Jilly Cooper",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 474011,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q1689012",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "Jilly Cooper",
+      "o_wiki_title": "Journalist",
+      "s_pop": 3857,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_928610"
+    }
+  },
+  "popqa_3780672": {
+    "id": "popqa_3780672",
+    "question": "What is Ingrid Martinez's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Ingrid Martinez",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 1645985,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q516287",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Íngrid Martz",
+      "o_wiki_title": "Actor",
+      "s_pop": 885,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_3226315"
+    }
+  },
+  "popqa_6430975": {
+    "id": "popqa_6430975",
+    "question": "What is Teddy Riley's occupation?",
+    "correct_answer": "record producer",
+    "correct_answers": [
+      "record producer",
+      "music producer",
+      "singer-songwriter",
+      "singer songwriter",
+      "singer/songwriter",
+      "singersongwriter"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Teddy Riley",
+      "prop": "occupation",
+      "obj": "record producer",
+      "subj_id": 2893937,
+      "prop_id": 22,
+      "obj_id": 620958,
+      "s_uri": "http://www.wikidata.org/entity/Q927450",
+      "o_uri": "http://www.wikidata.org/entity/Q183945",
+      "s_wiki_title": "Teddy Riley",
+      "o_wiki_title": "Record producer",
+      "s_pop": 16203,
+      "o_pop": 42844,
+      "subject_doc_id": "popqa_subject_462642"
+    }
+  },
+  "popqa_4244332": {
+    "id": "popqa_4244332",
+    "question": "What is Gillian Raine's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Gillian Raine",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 1859536,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q5562275",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Gillian Raine",
+      "o_wiki_title": "Actor",
+      "s_pop": 2206,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_21394490"
+    }
+  },
+  "popqa_1805806": {
+    "id": "popqa_1805806",
+    "question": "What is Tolis Voskopoulos's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Tolis Voskopoulos",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 796936,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q2333758",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Tolis Voskopoulos",
+      "o_wiki_title": "Composer",
+      "s_pop": 1244,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_5372123"
+    }
+  },
+  "popqa_900521": {
+    "id": "popqa_900521",
+    "question": "What is Marco Ameglio's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Marco Ameglio",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 381977,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q16147358",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Marco Ameglio",
+      "o_wiki_title": "Politician",
+      "s_pop": 74,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_40891865"
+    }
+  },
+  "popqa_1044970": {
+    "id": "popqa_1044970",
+    "question": "What is Mohd Sharkar Shamsudin's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Mohd Sharkar Shamsudin",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 446989,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q16732751",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Mohd Sharkar Shamsudin",
+      "o_wiki_title": "Politician",
+      "s_pop": 312,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_34755598"
+    }
+  },
+  "popqa_6042978": {
+    "id": "popqa_6042978",
+    "question": "What is Anthony Sharp's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Anthony Sharp",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 2714677,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q785197",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Anthony Sharp",
+      "o_wiki_title": "Actor",
+      "s_pop": 2491,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_11324896"
+    }
+  },
+  "popqa_4062418": {
+    "id": "popqa_4062418",
+    "question": "What is Valgerður Bjarnadóttir's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Valgerður Bjarnadóttir",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1776055,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q540116",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Valgerður Bjarnadóttir",
+      "o_wiki_title": "Politician",
+      "s_pop": 73,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_35851133"
+    }
+  },
+  "popqa_6135583": {
+    "id": "popqa_6135583",
+    "question": "What is Wallace Dollase's occupation?",
+    "correct_answer": "horse trainer",
+    "correct_answers": [
+      "horse trainer",
+      "racehorse trainer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Wallace Dollase",
+      "prop": "occupation",
+      "obj": "horse trainer",
+      "subj_id": 2765122,
+      "prop_id": 22,
+      "obj_id": 1375326,
+      "s_uri": "http://www.wikidata.org/entity/Q7962780",
+      "o_uri": "http://www.wikidata.org/entity/Q466640",
+      "s_wiki_title": "Wallace Dollase",
+      "o_wiki_title": "Horse trainer",
+      "s_pop": 100,
+      "o_pop": 1565,
+      "subject_doc_id": "popqa_subject_26929598"
+    }
+  },
+  "popqa_177542": {
+    "id": "popqa_177542",
+    "question": "What is Claire Berlinski's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Claire Berlinski",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 71750,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q1122303",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "Claire Berlinski",
+      "o_wiki_title": "Journalist",
+      "s_pop": 622,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_36157915"
+    }
+  },
+  "popqa_5571000": {
+    "id": "popqa_5571000",
+    "question": "What is James Cook's occupation?",
+    "correct_answer": "sailor",
+    "correct_answers": [
+      "sailor",
+      "seaman",
+      "mariner",
+      "seafarer",
+      "merchant sailor",
+      "merchant seaman",
+      "merchant mariner"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "James Cook",
+      "prop": "occupation",
+      "obj": "sailor",
+      "subj_id": 2483195,
+      "prop_id": 22,
+      "obj_id": 1327267,
+      "s_uri": "http://www.wikidata.org/entity/Q7324",
+      "o_uri": "http://www.wikidata.org/entity/Q45199",
+      "s_wiki_title": "James Cook",
+      "o_wiki_title": "Sailor",
+      "s_pop": 77049,
+      "o_pop": 11244,
+      "subject_doc_id": "popqa_subject_15630"
+    }
+  },
+  "popqa_5651252": {
+    "id": "popqa_5651252",
+    "question": "What is Russell Stokes's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Russell Stokes",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 2518393,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q7381796",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Russell Stokes",
+      "o_wiki_title": "Politician",
+      "s_pop": 84,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_33274484"
+    }
+  },
+  "popqa_4265255": {
+    "id": "popqa_4265255",
+    "question": "What is Henk Bleker's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Henk Bleker",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1869768,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q558472",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Henk Bleker",
+      "o_wiki_title": "Politician",
+      "s_pop": 139,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_30998184"
+    }
+  },
+  "popqa_4674890": {
+    "id": "popqa_4674890",
+    "question": "What is Jim Brown's occupation?",
+    "correct_answer": "radio personality",
+    "correct_answers": [
+      "radio personality",
+      "radio presenter",
+      "radio hostess",
+      "host",
+      "hostess",
+      "radio host",
+      "radio jockey",
+      "radio program boss",
+      "RJ"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Jim Brown",
+      "prop": "occupation",
+      "obj": "radio personality",
+      "subj_id": 2059616,
+      "prop_id": 22,
+      "obj_id": 916690,
+      "s_uri": "http://www.wikidata.org/entity/Q6193880",
+      "o_uri": "http://www.wikidata.org/entity/Q2722764",
+      "s_wiki_title": "Jim Brown (radio host)",
+      "o_wiki_title": "Radio personality",
+      "s_pop": 98,
+      "o_pop": 5737,
+      "subject_doc_id": "popqa_subject_6137182"
+    }
+  },
+  "popqa_3111664": {
+    "id": "popqa_3111664",
+    "question": "What is Christoph Schlingensief's occupation?",
+    "correct_answer": "theatrical director",
+    "correct_answers": [
+      "theatrical director",
+      "stage director",
+      "theatre director",
+      "play director",
+      "director",
+      "theater director"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Christoph Schlingensief",
+      "prop": "occupation",
+      "obj": "theatrical director",
+      "subj_id": 1325887,
+      "prop_id": 22,
+      "obj_id": 1111047,
+      "s_uri": "http://www.wikidata.org/entity/Q45070",
+      "o_uri": "http://www.wikidata.org/entity/Q3387717",
+      "s_wiki_title": "Christoph Schlingensief",
+      "o_wiki_title": "Theatre director",
+      "s_pop": 1397,
+      "o_pop": 5062,
+      "subject_doc_id": "popqa_subject_1970966"
+    }
+  },
+  "popqa_1505982": {
+    "id": "popqa_1505982",
+    "question": "What is C. E. Webber's occupation?",
+    "correct_answer": "playwright",
+    "correct_answers": [
+      "playwright",
+      "dramatist",
+      "playwrite",
+      "scriptwriter"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "C. E. Webber",
+      "prop": "occupation",
+      "obj": "playwright",
+      "subj_id": 671860,
+      "prop_id": 22,
+      "obj_id": 748919,
+      "s_uri": "http://www.wikidata.org/entity/Q1945715",
+      "o_uri": "http://www.wikidata.org/entity/Q214917",
+      "s_wiki_title": "C. E. Webber",
+      "o_wiki_title": "Playwright",
+      "s_pop": 2107,
+      "o_pop": 11213,
+      "subject_doc_id": "popqa_subject_1304249"
+    }
+  },
+  "popqa_371747": {
+    "id": "popqa_371747",
+    "question": "What is Gladwyn Jebb's occupation?",
+    "correct_answer": "diplomat",
+    "correct_answers": [
+      "diplomat",
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Gladwyn Jebb",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 150410,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q1275",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Gladwyn Jebb",
+      "o_wiki_title": "Politician",
+      "s_pop": 2793,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_349446"
+    }
+  },
+  "popqa_3882000": {
+    "id": "popqa_3882000",
+    "question": "What is Dean Alfange's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Dean Alfange",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1693626,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q5245973",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Dean Alfange",
+      "o_wiki_title": "Politician",
+      "s_pop": 1334,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_26943611"
+    }
+  },
+  "popqa_1056532": {
+    "id": "popqa_1056532",
+    "question": "What is Tyler, the Creator's occupation?",
+    "correct_answer": "record producer",
+    "correct_answers": [
+      "record producer",
+      "music producer",
+      "actor",
+      "actress",
+      "actors",
+      "actresses",
+      "graphic designer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Tyler, the Creator",
+      "prop": "occupation",
+      "obj": "record producer",
+      "subj_id": 452674,
+      "prop_id": 22,
+      "obj_id": 620958,
+      "s_uri": "http://www.wikidata.org/entity/Q167635",
+      "o_uri": "http://www.wikidata.org/entity/Q183945",
+      "s_wiki_title": "Tyler, the Creator",
+      "o_wiki_title": "Record producer",
+      "s_pop": 194634,
+      "o_pop": 42844,
+      "subject_doc_id": "popqa_subject_29202630"
+    }
+  },
+  "popqa_843797": {
+    "id": "popqa_843797",
+    "question": "What is Edwin E. Ellis's occupation?",
+    "correct_answer": "photographer",
+    "correct_answers": [
+      "photographer",
+      "photog",
+      "photographers"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Edwin E. Ellis",
+      "prop": "occupation",
+      "obj": "photographer",
+      "subj_id": 359531,
+      "prop_id": 22,
+      "obj_id": 1092260,
+      "s_uri": "http://www.wikidata.org/entity/Q16012233",
+      "o_uri": "http://www.wikidata.org/entity/Q33231",
+      "s_wiki_title": "Edwin E. Ellis",
+      "o_wiki_title": "Photographer",
+      "s_pop": 66,
+      "o_pop": 10855,
+      "subject_doc_id": "popqa_subject_39741264"
+    }
+  },
+  "popqa_5178335": {
+    "id": "popqa_5178335",
+    "question": "What is Muhammad Ali Luqman's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Muhammad Ali Luqman",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 2290860,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q6854091",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "Muhammad Ali Luqman",
+      "o_wiki_title": "Journalist",
+      "s_pop": 94,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_31004451"
+    }
+  },
+  "popqa_1901465": {
+    "id": "popqa_1901465",
+    "question": "What is Ivo Perilli's occupation?",
+    "correct_answer": "screenwriter",
+    "correct_answers": [
+      "screenwriter",
+      "scenarist",
+      "writer",
+      "screen writer",
+      "script writer",
+      "scriptwriter"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Ivo Perilli",
+      "prop": "occupation",
+      "obj": "screenwriter",
+      "subj_id": 835517,
+      "prop_id": 22,
+      "obj_id": 945070,
+      "s_uri": "http://www.wikidata.org/entity/Q246419",
+      "o_uri": "http://www.wikidata.org/entity/Q28389",
+      "s_wiki_title": "Ivo Perilli",
+      "o_wiki_title": "Screenwriter",
+      "s_pop": 84,
+      "o_pop": 26544,
+      "subject_doc_id": "popqa_subject_22024290"
+    }
+  },
+  "popqa_5254909": {
+    "id": "popqa_5254909",
+    "question": "What is Nathan Purdee's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Nathan Purdee",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 2329414,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q6969295",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Nathan Purdee",
+      "o_wiki_title": "Actor",
+      "s_pop": 580,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_1164499"
+    }
+  },
+  "popqa_1701577": {
+    "id": "popqa_1701577",
+    "question": "What is Joseph Weydemeyer's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists",
+      "revolutionary",
+      "insurrectionist",
+      "revolutionist",
+      "revolutioner"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Joseph Weydemeyer",
+      "prop": "occupation",
+      "obj": "revolutionary",
+      "subj_id": 752569,
+      "prop_id": 22,
+      "obj_id": 1065807,
+      "s_uri": "http://www.wikidata.org/entity/Q216162",
+      "o_uri": "http://www.wikidata.org/entity/Q3242115",
+      "s_wiki_title": "Joseph Weydemeyer",
+      "o_wiki_title": "Revolutionary",
+      "s_pop": 1098,
+      "o_pop": 9714,
+      "subject_doc_id": "popqa_subject_38584708"
+    }
+  },
+  "popqa_2951170": {
+    "id": "popqa_2951170",
+    "question": "What is Ai's occupation?",
+    "correct_answer": "poet",
+    "correct_answers": [
+      "poet",
+      "poetess",
+      "bard"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Ai",
+      "prop": "occupation",
+      "obj": "poet",
+      "subj_id": 1263372,
+      "prop_id": 22,
+      "obj_id": 1548606,
+      "s_uri": "http://www.wikidata.org/entity/Q403146",
+      "o_uri": "http://www.wikidata.org/entity/Q49757",
+      "s_wiki_title": "Ai (poet)",
+      "o_wiki_title": "Poet",
+      "s_pop": 994,
+      "o_pop": 16182,
+      "subject_doc_id": "popqa_subject_744128"
+    }
+  },
+  "popqa_5586772": {
+    "id": "popqa_5586772",
+    "question": "What is Rinaldo del Mel's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Rinaldo del Mel",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 2489918,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q7334576",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Rinaldo del Mel",
+      "o_wiki_title": "Composer",
+      "s_pop": 62,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_5708233"
+    }
+  },
+  "popqa_584816": {
+    "id": "popqa_584816",
+    "question": "What is Francis Howard, 5th Baron Howard of Effingham's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Francis Howard, 5th Baron Howard of Effingham",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 239320,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q1441549",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Francis Howard, 5th Baron Howard of Effingham",
+      "o_wiki_title": "Politician",
+      "s_pop": 353,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_17940625"
+    }
+  },
+  "popqa_257764": {
+    "id": "popqa_257764",
+    "question": "What is Luís Marques Guedes's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Luís Marques Guedes",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 103786,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q11764395",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Luís Marques Guedes",
+      "o_wiki_title": "Politician",
+      "s_pop": 109,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_39713517"
+    }
+  },
+  "popqa_3116649": {
+    "id": "popqa_3116649",
+    "question": "What is Nigel Sheinwald's occupation?",
+    "correct_answer": "diplomat",
+    "correct_answers": [
+      "diplomat"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Nigel Sheinwald",
+      "prop": "occupation",
+      "obj": "diplomat",
+      "subj_id": 1327616,
+      "prop_id": 22,
+      "obj_id": 665281,
+      "s_uri": "http://www.wikidata.org/entity/Q4522462",
+      "o_uri": "http://www.wikidata.org/entity/Q193391",
+      "s_wiki_title": "Nigel Sheinwald",
+      "o_wiki_title": "Diplomat",
+      "s_pop": 815,
+      "o_pop": 14886,
+      "subject_doc_id": "popqa_subject_16255141"
+    }
+  },
+  "popqa_2043042": {
+    "id": "popqa_2043042",
+    "question": "What is Ge You's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Ge You",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 894905,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q2658847",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Ge You",
+      "o_wiki_title": "Actor",
+      "s_pop": 2195,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_310201"
+    }
+  },
+  "popqa_2171332": {
+    "id": "popqa_2171332",
+    "question": "What is Annie Beustes's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Annie Beustes",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 948913,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q2851626",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Annie Beustes",
+      "o_wiki_title": "Politician",
+      "s_pop": 33,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_24007072"
+    }
+  },
+  "popqa_2062111": {
+    "id": "popqa_2062111",
+    "question": "What is Kazuyoshi Sekine's occupation?",
+    "correct_answer": "playwright",
+    "correct_answers": [
+      "playwright",
+      "dramatist",
+      "playwrite",
+      "scriptwriter"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Kazuyoshi Sekine",
+      "prop": "occupation",
+      "obj": "playwright",
+      "subj_id": 903447,
+      "prop_id": 22,
+      "obj_id": 748919,
+      "s_uri": "http://www.wikidata.org/entity/Q268802",
+      "o_uri": "http://www.wikidata.org/entity/Q214917",
+      "s_wiki_title": "Kazuyoshi Sekine",
+      "o_wiki_title": "Playwright",
+      "s_pop": 72,
+      "o_pop": 11213,
+      "subject_doc_id": "popqa_subject_2024232"
+    }
+  },
+  "popqa_6392317": {
+    "id": "popqa_6392317",
+    "question": "What is Elisa Bridges's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses",
+      "Playboy Playmate",
+      "Playmate"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Elisa Bridges",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 2879080,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q905439",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Elisa Bridges",
+      "o_wiki_title": "Actor",
+      "s_pop": 1312,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_1867835"
+    }
+  },
+  "popqa_3930846": {
+    "id": "popqa_3930846",
+    "question": "What is Domingo Eyzaguirre's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Domingo Eyzaguirre",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1716852,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q5290362",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Domingo Eyzaguirre",
+      "o_wiki_title": "Politician",
+      "s_pop": 47,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_8837657"
+    }
+  },
+  "popqa_4817052": {
+    "id": "popqa_4817052",
+    "question": "What is Karol Życzkowski's occupation?",
+    "correct_answer": "physicist",
+    "correct_answers": [
+      "physicist",
+      "mathematician"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Karol Życzkowski",
+      "prop": "occupation",
+      "obj": "physicist",
+      "subj_id": 2120302,
+      "prop_id": 22,
+      "obj_id": 485825,
+      "s_uri": "http://www.wikidata.org/entity/Q6373091",
+      "o_uri": "http://www.wikidata.org/entity/Q169470",
+      "s_wiki_title": "Karol Życzkowski",
+      "o_wiki_title": "Physicist",
+      "s_pop": 154,
+      "o_pop": 17531,
+      "subject_doc_id": "popqa_subject_34514152"
+    }
+  },
+  "popqa_2139096": {
+    "id": "popqa_2139096",
+    "question": "What is Joyce Tang's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Joyce Tang",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 935382,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q2799766",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Joyce Tang",
+      "o_wiki_title": "Actor",
+      "s_pop": 2104,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_8653733"
+    }
+  },
+  "popqa_1479687": {
+    "id": "popqa_1479687",
+    "question": "What is Suzanne Lilar's occupation?",
+    "correct_answer": "playwright",
+    "correct_answers": [
+      "playwright",
+      "dramatist",
+      "playwrite",
+      "scriptwriter"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Suzanne Lilar",
+      "prop": "occupation",
+      "obj": "playwright",
+      "subj_id": 660658,
+      "prop_id": 22,
+      "obj_id": 748919,
+      "s_uri": "http://www.wikidata.org/entity/Q1924889",
+      "o_uri": "http://www.wikidata.org/entity/Q214917",
+      "s_wiki_title": "Suzanne Lilar",
+      "o_wiki_title": "Playwright",
+      "s_pop": 370,
+      "o_pop": 11213,
+      "subject_doc_id": "popqa_subject_9598699"
+    }
+  },
+  "popqa_2428794": {
+    "id": "popqa_2428794",
+    "question": "What is Karen Redman's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Karen Redman",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1053271,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q3193126",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Karen Redman",
+      "o_wiki_title": "Politician",
+      "s_pop": 227,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_1470633"
+    }
+  },
+  "popqa_6490517": {
+    "id": "popqa_6490517",
+    "question": "What is Jean-Yves Daniel-Lesur's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer",
+      "organist",
+      "organ player"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Jean-Yves Daniel-Lesur",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 2916258,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q955697",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Jean-Yves Daniel-Lesur",
+      "o_wiki_title": "Composer",
+      "s_pop": 303,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_12110855"
+    }
+  },
+  "popqa_743705": {
+    "id": "popqa_743705",
+    "question": "What is Eduard Looijenga's occupation?",
+    "correct_answer": "mathematician",
+    "correct_answers": [
+      "mathematician"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Eduard Looijenga",
+      "prop": "occupation",
+      "obj": "mathematician",
+      "subj_id": 316184,
+      "prop_id": 22,
+      "obj_id": 520646,
+      "s_uri": "http://www.wikidata.org/entity/Q15454945",
+      "o_uri": "http://www.wikidata.org/entity/Q170790",
+      "s_wiki_title": "Eduard Looijenga",
+      "o_wiki_title": "Mathematician",
+      "s_pop": 145,
+      "o_pop": 23111,
+      "subject_doc_id": "popqa_subject_45224498"
+    }
+  },
+  "popqa_2861972": {
+    "id": "popqa_2861972",
+    "question": "What is Petrus Camper's occupation?",
+    "correct_answer": "physician",
+    "correct_answers": [
+      "physician",
+      "physicians",
+      "medical doctor",
+      "medical practitioner",
+      "doctor",
+      "medical doctors"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Petrus Camper",
+      "prop": "occupation",
+      "obj": "physician",
+      "subj_id": 1226445,
+      "prop_id": 22,
+      "obj_id": 1253162,
+      "s_uri": "http://www.wikidata.org/entity/Q382682",
+      "o_uri": "http://www.wikidata.org/entity/Q39631",
+      "s_wiki_title": "Petrus Camper",
+      "o_wiki_title": "Physician",
+      "s_pop": 744,
+      "o_pop": 48188,
+      "subject_doc_id": "popqa_subject_2729716"
+    }
+  },
+  "popqa_3689415": {
+    "id": "popqa_3689415",
+    "question": "What is Charles Harrison's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Charles Harrison",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1602408,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q5078803",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Charles Harrison (Bewdley MP)",
+      "o_wiki_title": "Politician",
+      "s_pop": 51,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_20596216"
+    }
+  },
+  "popqa_399341": {
+    "id": "popqa_399341",
+    "question": "What is Pathit Pisitkul's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Pathit Pisitkul",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 160718,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q13018117",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Pathit Pisitkul",
+      "o_wiki_title": "Actor",
+      "s_pop": 179,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_41244496"
+    }
+  },
+  "popqa_2201087": {
+    "id": "popqa_2201087",
+    "question": "What is Jacopo Melani's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Jacopo Melani",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 961760,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q2897491",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Jacopo Melani",
+      "o_wiki_title": "Composer",
+      "s_pop": 112,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_9369391"
+    }
+  },
+  "popqa_2101249": {
+    "id": "popqa_2101249",
+    "question": "What is Jeremiah Smith's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Jeremiah Smith",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 920049,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q2734279",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Jeremiah Smith (lawyer)",
+      "o_wiki_title": "Politician",
+      "s_pop": 258,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_21831730"
+    }
+  },
+  "popqa_5574760": {
+    "id": "popqa_5574760",
+    "question": "What is Richard Harris's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Richard Harris",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 2484673,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q7326285",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Richard Harris (composer)",
+      "o_wiki_title": "Composer",
+      "s_pop": 80,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_12591148"
+    }
+  },
+  "popqa_1642428": {
+    "id": "popqa_1642428",
+    "question": "What is Peter W. Barca's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Peter W. Barca",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 729767,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q2078827",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Peter W. Barca",
+      "o_wiki_title": "Politician",
+      "s_pop": 369,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_2363741"
+    }
+  },
+  "popqa_2533751": {
+    "id": "popqa_2533751",
+    "question": "What is Harold Lever, Baron Lever of Manchester's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Harold Lever, Baron Lever of Manchester",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1094888,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q333321",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Harold Lever, Baron Lever of Manchester",
+      "o_wiki_title": "Politician",
+      "s_pop": 553,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_2758904"
+    }
+  },
+  "popqa_5431559": {
+    "id": "popqa_5431559",
+    "question": "What is Peter Murnoy's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Peter Murnoy",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 2414934,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q7175997",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Peter Murnoy",
+      "o_wiki_title": "Politician",
+      "s_pop": 24,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_19475088"
+    }
+  },
+  "popqa_380651": {
+    "id": "popqa_380651",
+    "question": "What is Spencer Williams's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer",
+      "pianist"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Spencer Williams",
+      "prop": "occupation",
+      "obj": "pianist",
+      "subj_id": 153735,
+      "prop_id": 22,
+      "obj_id": 1490554,
+      "s_uri": "http://www.wikidata.org/entity/Q1282480",
+      "o_uri": "http://www.wikidata.org/entity/Q486748",
+      "s_wiki_title": "Spencer Williams",
+      "o_wiki_title": "Pianist",
+      "s_pop": 961,
+      "o_pop": 6538,
+      "subject_doc_id": "popqa_subject_182539"
+    }
+  },
+  "popqa_5576709": {
+    "id": "popqa_5576709",
+    "question": "What is Richard Lui's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Richard Lui",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 2485462,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q7327497",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "Richard Lui",
+      "o_wiki_title": "Journalist",
+      "s_pop": 1047,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_6262581"
+    }
+  },
+  "popqa_5981733": {
+    "id": "popqa_5981733",
+    "question": "What is Charlotte von Hagn's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Charlotte von Hagn",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 2685507,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q77921",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Charlotte von Hagn",
+      "o_wiki_title": "Actor",
+      "s_pop": 285,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_21843480"
+    }
+  },
+  "popqa_4626587": {
+    "id": "popqa_4626587",
+    "question": "What is James M. Geraghty's occupation?",
+    "correct_answer": "lawyer",
+    "correct_answers": [
+      "lawyer",
+      "attorney",
+      "solicitor",
+      "barrister",
+      "lawyers",
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "James M. Geraghty",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 2039312,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q6138430",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "James M. Geraghty",
+      "o_wiki_title": "Politician",
+      "s_pop": 66,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_38590124"
+    }
+  },
+  "popqa_896602": {
+    "id": "popqa_896602",
+    "question": "What is Michael Hutchings's occupation?",
+    "correct_answer": "chef",
+    "correct_answers": [
+      "chef",
+      "chef de cuisine"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Michael Hutchings",
+      "prop": "occupation",
+      "obj": "chef",
+      "subj_id": 380296,
+      "prop_id": 22,
+      "obj_id": 1144698,
+      "s_uri": "http://www.wikidata.org/entity/Q16136337",
+      "o_uri": "http://www.wikidata.org/entity/Q3499072",
+      "s_wiki_title": "Michael Hutchings (chef)",
+      "o_wiki_title": "Chef",
+      "s_pop": 60,
+      "o_pop": 24351,
+      "subject_doc_id": "popqa_subject_10826800"
+    }
+  },
+  "popqa_705614": {
+    "id": "popqa_705614",
+    "question": "What is Gideon Olin's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Gideon Olin",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 298912,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q1523133",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Gideon Olin",
+      "o_wiki_title": "Politician",
+      "s_pop": 110,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_7944049"
+    }
+  },
+  "popqa_6517629": {
+    "id": "popqa_6517629",
+    "question": "What is Cecil Aldin's occupation?",
+    "correct_answer": "illustrator",
+    "correct_answers": [
+      "illustrator"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Cecil Aldin",
+      "prop": "occupation",
+      "obj": "illustrator",
+      "subj_id": 2926163,
+      "prop_id": 22,
+      "obj_id": 2155998,
+      "s_uri": "http://www.wikidata.org/entity/Q969310",
+      "o_uri": "http://www.wikidata.org/entity/Q644687",
+      "s_wiki_title": "Cecil Aldin",
+      "o_wiki_title": "Illustrator",
+      "s_pop": 685,
+      "o_pop": 6987,
+      "subject_doc_id": "popqa_subject_3328449"
+    }
+  },
+  "popqa_2348074": {
+    "id": "popqa_2348074",
+    "question": "What is Malcolm David Kelley's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Malcolm David Kelley",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 1023433,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q310553",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Malcolm David Kelley",
+      "o_wiki_title": "Actor",
+      "s_pop": 15171,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_1084416"
+    }
+  },
+  "popqa_3954287": {
+    "id": "popqa_3954287",
+    "question": "What is James Alex Msekela's occupation?",
+    "correct_answer": "diplomat",
+    "correct_answers": [
+      "diplomat",
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "James Alex Msekela",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1726970,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q5306810",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "James Msekela",
+      "o_wiki_title": "Politician",
+      "s_pop": 87,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_36943133"
+    }
+  },
+  "popqa_3151249": {
+    "id": "popqa_3151249",
+    "question": "What is Nancy Landon Kassebaum's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Nancy Landon Kassebaum",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1344682,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q458281",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Nancy Kassebaum",
+      "o_wiki_title": "Politician",
+      "s_pop": 3184,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_382934"
+    }
+  },
+  "popqa_4653283": {
+    "id": "popqa_4653283",
+    "question": "What is Reinhold Mack's occupation?",
+    "correct_answer": "audio engineer",
+    "correct_answers": [
+      "audio engineer",
+      "recording engineer",
+      "sound producer",
+      "sound director",
+      "sound engineer",
+      "music engineer",
+      "musical engineer",
+      "record producer",
+      "music producer",
+      "composer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Reinhold Mack",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 2050438,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q61679",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Reinhold Mack",
+      "o_wiki_title": "Composer",
+      "s_pop": 3147,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_5645494"
+    }
+  },
+  "popqa_3889778": {
+    "id": "popqa_3889778",
+    "question": "What is Del Quentin Wilber's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Del Quentin Wilber",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 1697342,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q5252969",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "Del Quentin Wilber",
+      "o_wiki_title": "Journalist",
+      "s_pop": 155,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_24462104"
+    }
+  },
+  "popqa_332566": {
+    "id": "popqa_332566",
+    "question": "What is Pierre Pansu's occupation?",
+    "correct_answer": "mathematician",
+    "correct_answers": [
+      "mathematician"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Pierre Pansu",
+      "prop": "occupation",
+      "obj": "mathematician",
+      "subj_id": 134183,
+      "prop_id": 22,
+      "obj_id": 520646,
+      "s_uri": "http://www.wikidata.org/entity/Q1235647",
+      "o_uri": "http://www.wikidata.org/entity/Q170790",
+      "s_wiki_title": "Pierre Pansu",
+      "o_wiki_title": "Mathematician",
+      "s_pop": 201,
+      "o_pop": 23111,
+      "subject_doc_id": "popqa_subject_19383362"
+    }
+  },
+  "popqa_4918912": {
+    "id": "popqa_4918912",
+    "question": "What is Larry Coon's occupation?",
+    "correct_answer": "computer scientist",
+    "correct_answers": [
+      "computer scientist"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Larry Coon",
+      "prop": "occupation",
+      "obj": "computer scientist",
+      "subj_id": 2169082,
+      "prop_id": 22,
+      "obj_id": 2832556,
+      "s_uri": "http://www.wikidata.org/entity/Q6490123",
+      "o_uri": "http://www.wikidata.org/entity/Q82594",
+      "s_wiki_title": "Larry Coon",
+      "o_wiki_title": "Computer scientist",
+      "s_pop": 199,
+      "o_pop": 11699,
+      "subject_doc_id": "popqa_subject_25012289"
+    }
+  },
+  "popqa_5111257": {
+    "id": "popqa_5111257",
+    "question": "What is Masayoshi Nataniya's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Masayoshi Nataniya",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 2259285,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q6782788",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Masayoshi Nataniya",
+      "o_wiki_title": "Politician",
+      "s_pop": 78,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_14280876"
+    }
+  },
+  "popqa_1348390": {
+    "id": "popqa_1348390",
+    "question": "What is Leonida Tonelli's occupation?",
+    "correct_answer": "mathematician",
+    "correct_answers": [
+      "mathematician"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Leonida Tonelli",
+      "prop": "occupation",
+      "obj": "mathematician",
+      "subj_id": 600831,
+      "prop_id": 22,
+      "obj_id": 520646,
+      "s_uri": "http://www.wikidata.org/entity/Q1819452",
+      "o_uri": "http://www.wikidata.org/entity/Q170790",
+      "s_wiki_title": "Leonida Tonelli",
+      "o_wiki_title": "Mathematician",
+      "s_pop": 520,
+      "o_pop": 23111,
+      "subject_doc_id": "popqa_subject_10018991"
+    }
+  },
+  "popqa_4760447": {
+    "id": "popqa_4760447",
+    "question": "What is Judith Rakers's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists",
+      "television presenter",
+      "host",
+      "hostess",
+      "TV host",
+      "television host",
+      "TV presenter",
+      "TV anchor",
+      "television anchor"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Judith Rakers",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 2093133,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q62867",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "Judith Rakers",
+      "o_wiki_title": "Journalist",
+      "s_pop": 1118,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_30077333"
+    }
+  },
+  "popqa_4411817": {
+    "id": "popqa_4411817",
+    "question": "What is Hiroyuki Arai's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Hiroyuki Arai",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1938988,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q5771482",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Hiroyuki Arai",
+      "o_wiki_title": "Politician",
+      "s_pop": 147,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_13881942"
+    }
+  },
+  "popqa_4057234": {
+    "id": "popqa_4057234",
+    "question": "What is Ernst Timme's occupation?",
+    "correct_answer": "farmer",
+    "correct_answers": [
+      "farmer",
+      "agriculturist",
+      "grower",
+      "raiser",
+      "cultivator",
+      "agriculturer",
+      "farmer (occupation)",
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Ernst Timme",
+      "prop": "occupation",
+      "obj": "farmer",
+      "subj_id": 1773516,
+      "prop_id": 22,
+      "obj_id": 167147,
+      "s_uri": "http://www.wikidata.org/entity/Q5395162",
+      "o_uri": "http://www.wikidata.org/entity/Q131512",
+      "s_wiki_title": "Ernst Timme",
+      "o_wiki_title": "Farmer",
+      "s_pop": 61,
+      "o_pop": 24195,
+      "subject_doc_id": "popqa_subject_18997988"
+    }
+  },
+  "popqa_917458": {
+    "id": "popqa_917458",
+    "question": "What is Bill Kintner's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Bill Kintner",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 389910,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q16193682",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Bill Kintner",
+      "o_wiki_title": "Politician",
+      "s_pop": 126,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_39531396"
+    }
+  },
+  "popqa_415791": {
+    "id": "popqa_415791",
+    "question": "What is Francesco Vettori's occupation?",
+    "correct_answer": "diplomat",
+    "correct_answers": [
+      "diplomat"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Francesco Vettori",
+      "prop": "occupation",
+      "obj": "diplomat",
+      "subj_id": 168241,
+      "prop_id": 22,
+      "obj_id": 665281,
+      "s_uri": "http://www.wikidata.org/entity/Q1317800",
+      "o_uri": "http://www.wikidata.org/entity/Q193391",
+      "s_wiki_title": "Francesco Vettori",
+      "o_wiki_title": "Diplomat",
+      "s_pop": 271,
+      "o_pop": 14886,
+      "subject_doc_id": "popqa_subject_29525310"
+    }
+  },
+  "popqa_5138925": {
+    "id": "popqa_5138925",
+    "question": "What is Melinda Mullins's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Melinda Mullins",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 2272876,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q6812485",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Melinda Mullins",
+      "o_wiki_title": "Actor",
+      "s_pop": 1610,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_3190849"
+    }
+  },
+  "popqa_2376692": {
+    "id": "popqa_2376692",
+    "question": "What is Tachibana no Moroe's occupation?",
+    "correct_answer": "poet",
+    "correct_answers": [
+      "poet",
+      "poetess",
+      "bard"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Tachibana no Moroe",
+      "prop": "occupation",
+      "obj": "poet",
+      "subj_id": 1034028,
+      "prop_id": 22,
+      "obj_id": 1548606,
+      "s_uri": "http://www.wikidata.org/entity/Q3135863",
+      "o_uri": "http://www.wikidata.org/entity/Q49757",
+      "s_wiki_title": "Tachibana no Moroe",
+      "o_wiki_title": "Poet",
+      "s_pop": 267,
+      "o_pop": 16182,
+      "subject_doc_id": "popqa_subject_32378800"
+    }
+  },
+  "popqa_5855941": {
+    "id": "popqa_5855941",
+    "question": "What is Susan Kent's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Susan Kent",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 2622544,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q7648063",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Susan Kent (actress)",
+      "o_wiki_title": "Actor",
+      "s_pop": 1543,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_37127216"
+    }
+  },
+  "popqa_5148350": {
+    "id": "popqa_5148350",
+    "question": "What is Meyer Lutz's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Meyer Lutz",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 2277814,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q6826428",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Meyer Lutz",
+      "o_wiki_title": "Composer",
+      "s_pop": 232,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_7452281"
+    }
+  },
+  "popqa_5032330": {
+    "id": "popqa_5032330",
+    "question": "What is Ludwig Lichtschein's occupation?",
+    "correct_answer": "rabbi",
+    "correct_answers": [
+      "rabbi",
+      "Rav"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Ludwig Lichtschein",
+      "prop": "occupation",
+      "obj": "rabbi",
+      "subj_id": 2222741,
+      "prop_id": 22,
+      "obj_id": 177374,
+      "s_uri": "http://www.wikidata.org/entity/Q6699275",
+      "o_uri": "http://www.wikidata.org/entity/Q133485",
+      "s_wiki_title": "Ludwig Lichtschein",
+      "o_wiki_title": "Rabbi",
+      "s_pop": 58,
+      "o_pop": 22447,
+      "subject_doc_id": "popqa_subject_2498306"
+    }
+  },
+  "popqa_2942698": {
+    "id": "popqa_2942698",
+    "question": "What is Will Smith's occupation?",
+    "correct_answer": "record producer",
+    "correct_answers": [
+      "record producer",
+      "music producer",
+      "film director",
+      "movie director",
+      "director",
+      "motion picture director",
+      "film producer",
+      "movie producer",
+      "producer",
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Will Smith",
+      "prop": "occupation",
+      "obj": "film producer",
+      "subj_id": 1260028,
+      "prop_id": 22,
+      "obj_id": 1077200,
+      "s_uri": "http://www.wikidata.org/entity/Q40096",
+      "o_uri": "http://www.wikidata.org/entity/Q3282637",
+      "s_wiki_title": "Will Smith",
+      "o_wiki_title": "Film producer",
+      "s_pop": 345519,
+      "o_pop": 58642,
+      "subject_doc_id": "popqa_subject_154698"
+    }
+  },
+  "popqa_3727391": {
+    "id": "popqa_3727391",
+    "question": "What is Marjorie Margolies-Mezvinsky's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists",
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Marjorie Margolies-Mezvinsky",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1619076,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q510858",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Marjorie Margolies",
+      "o_wiki_title": "Politician",
+      "s_pop": 5299,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_5438665"
+    }
+  },
+  "popqa_2712125": {
+    "id": "popqa_2712125",
+    "question": "What is Władysław Sławny's occupation?",
+    "correct_answer": "photographer",
+    "correct_answers": [
+      "photographer",
+      "photog",
+      "photographers"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Władysław Sławny",
+      "prop": "occupation",
+      "obj": "photographer",
+      "subj_id": 1166719,
+      "prop_id": 22,
+      "obj_id": 1092260,
+      "s_uri": "http://www.wikidata.org/entity/Q3570287",
+      "o_uri": "http://www.wikidata.org/entity/Q33231",
+      "s_wiki_title": "Władysław Sławny",
+      "o_wiki_title": "Photographer",
+      "s_pop": 21,
+      "o_pop": 10855,
+      "subject_doc_id": "popqa_subject_35637418"
+    }
+  },
+  "popqa_2629344": {
+    "id": "popqa_2629344",
+    "question": "What is Pierre Chatenet's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Pierre Chatenet",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1132705,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q346154",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Pierre Chatenet",
+      "o_wiki_title": "Politician",
+      "s_pop": 140,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_12458543"
+    }
+  },
+  "popqa_5887509": {
+    "id": "popqa_5887509",
+    "question": "What is Friedrich Carl von Savigny's occupation?",
+    "correct_answer": "jurist",
+    "correct_answers": [
+      "jurist"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Friedrich Carl von Savigny",
+      "prop": "occupation",
+      "obj": "jurist",
+      "subj_id": 2638748,
+      "prop_id": 22,
+      "obj_id": 625374,
+      "s_uri": "http://www.wikidata.org/entity/Q76892",
+      "o_uri": "http://www.wikidata.org/entity/Q185351",
+      "s_wiki_title": "Friedrich Carl von Savigny",
+      "o_wiki_title": "Jurist",
+      "s_pop": 2116,
+      "o_pop": 8968,
+      "subject_doc_id": "popqa_subject_181156"
+    }
+  },
+  "popqa_5704779": {
+    "id": "popqa_5704779",
+    "question": "What is Luciano Vincenzoni's occupation?",
+    "correct_answer": "screenwriter",
+    "correct_answers": [
+      "screenwriter",
+      "scenarist",
+      "writer",
+      "screen writer",
+      "script writer",
+      "scriptwriter"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Luciano Vincenzoni",
+      "prop": "occupation",
+      "obj": "screenwriter",
+      "subj_id": 2545161,
+      "prop_id": 22,
+      "obj_id": 945070,
+      "s_uri": "http://www.wikidata.org/entity/Q743375",
+      "o_uri": "http://www.wikidata.org/entity/Q28389",
+      "s_wiki_title": "Luciano Vincenzoni",
+      "o_wiki_title": "Screenwriter",
+      "s_pop": 2622,
+      "o_pop": 26544,
+      "subject_doc_id": "popqa_subject_9290413"
+    }
+  },
+  "popqa_3049219": {
+    "id": "popqa_3049219",
+    "question": "What is Thandiswa Mazwai's occupation?",
+    "correct_answer": "songwriter",
+    "correct_answers": [
+      "songwriter",
+      "song writer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Thandiswa Mazwai",
+      "prop": "occupation",
+      "obj": "songwriter",
+      "subj_id": 1303727,
+      "prop_id": 22,
+      "obj_id": 2577376,
+      "s_uri": "http://www.wikidata.org/entity/Q4348940",
+      "o_uri": "http://www.wikidata.org/entity/Q753110",
+      "s_wiki_title": "Thandiswa Mazwai",
+      "o_wiki_title": "Songwriter",
+      "s_pop": 1704,
+      "o_pop": 25550,
+      "subject_doc_id": "popqa_subject_12396751"
+    }
+  },
+  "popqa_3310098": {
+    "id": "popqa_3310098",
+    "question": "What is Ameer Sultan's occupation?",
+    "correct_answer": "film director",
+    "correct_answers": [
+      "film director",
+      "movie director",
+      "director",
+      "motion picture director",
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Ameer Sultan",
+      "prop": "occupation",
+      "obj": "film director",
+      "subj_id": 1421207,
+      "prop_id": 22,
+      "obj_id": 854535,
+      "s_uri": "http://www.wikidata.org/entity/Q4742138",
+      "o_uri": "http://www.wikidata.org/entity/Q2526255",
+      "s_wiki_title": "Ameer (director)",
+      "o_wiki_title": "Film director",
+      "s_pop": 9708,
+      "o_pop": 45772,
+      "subject_doc_id": "popqa_subject_14933038"
+    }
+  },
+  "popqa_2411732": {
+    "id": "popqa_2411732",
+    "question": "What is Wenceslao Vinzons's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Wenceslao Vinzons",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1047561,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q3177790",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Wenceslao Vinzons",
+      "o_wiki_title": "Politician",
+      "s_pop": 1621,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_15061505"
+    }
+  },
+  "popqa_2876983": {
+    "id": "popqa_2876983",
+    "question": "What is Maurizio Belpietro's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists",
+      "television presenter",
+      "host",
+      "hostess",
+      "TV host",
+      "television host",
+      "TV presenter",
+      "TV anchor",
+      "television anchor"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Maurizio Belpietro",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 1232402,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q3852522",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "Maurizio Belpietro",
+      "o_wiki_title": "Journalist",
+      "s_pop": 333,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_22777040"
+    }
+  },
+  "popqa_1371300": {
+    "id": "popqa_1371300",
+    "question": "What is Dash's occupation?",
+    "correct_answer": "record producer",
+    "correct_answers": [
+      "record producer",
+      "music producer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Dash",
+      "prop": "occupation",
+      "obj": "record producer",
+      "subj_id": 611582,
+      "prop_id": 22,
+      "obj_id": 620958,
+      "s_uri": "http://www.wikidata.org/entity/Q18350383",
+      "o_uri": "http://www.wikidata.org/entity/Q183945",
+      "s_wiki_title": "Dash (rapper)",
+      "o_wiki_title": "Record producer",
+      "s_pop": 10374,
+      "o_pop": 42844,
+      "subject_doc_id": "popqa_subject_41383102"
+    }
+  },
+  "popqa_3455880": {
+    "id": "popqa_3455880",
+    "question": "What is Baton Haxhiu's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Baton Haxhiu",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 1491594,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q4869463",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "Baton Haxhiu",
+      "o_wiki_title": "Journalist",
+      "s_pop": 344,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_27857791"
+    }
+  },
+  "popqa_2675510": {
+    "id": "popqa_2675510",
+    "question": "What is Johnson's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Johnson",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 1152048,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q3523016",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Johnson (composer)",
+      "o_wiki_title": "Composer",
+      "s_pop": 5158,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_2327783"
+    }
+  },
+  "popqa_1790865": {
+    "id": "popqa_1790865",
+    "question": "What is Samuel Wells Williams's occupation?",
+    "correct_answer": "missionary",
+    "correct_answers": [
+      "missionary",
+      "Christian missionary"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Samuel Wells Williams",
+      "prop": "occupation",
+      "obj": "missionary",
+      "subj_id": 791184,
+      "prop_id": 22,
+      "obj_id": 760001,
+      "s_uri": "http://www.wikidata.org/entity/Q2311485",
+      "o_uri": "http://www.wikidata.org/entity/Q219477",
+      "s_wiki_title": "Samuel Wells Williams",
+      "o_wiki_title": "Missionary",
+      "s_pop": 542,
+      "o_pop": 20559,
+      "subject_doc_id": "popqa_subject_3406813"
+    }
+  },
+  "popqa_141296": {
+    "id": "popqa_141296",
+    "question": "What is Walter Köbel's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Walter Köbel",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 56845,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q109217",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Walter Köbel",
+      "o_wiki_title": "Politician",
+      "s_pop": 81,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_8097843"
+    }
+  },
+  "popqa_3884509": {
+    "id": "popqa_3884509",
+    "question": "What is Debbie Johnson's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Debbie Johnson",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1694718,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q5247941",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Debbie Johnson",
+      "o_wiki_title": "Politician",
+      "s_pop": 197,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_23146028"
+    }
+  },
+  "popqa_1412677": {
+    "id": "popqa_1412677",
+    "question": "What is John Scurti's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "John Scurti",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 631794,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q186384",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "John Scurti",
+      "o_wiki_title": "Actor",
+      "s_pop": 1852,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_22335108"
+    }
+  },
+  "popqa_4700304": {
+    "id": "popqa_4700304",
+    "question": "What is John Barnes's occupation?",
+    "correct_answer": "monk",
+    "correct_answers": [
+      "monk",
+      "monks"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "John Barnes",
+      "prop": "occupation",
+      "obj": "monk",
+      "subj_id": 2069200,
+      "prop_id": 22,
+      "obj_id": 2491733,
+      "s_uri": "http://www.wikidata.org/entity/Q6220774",
+      "o_uri": "http://www.wikidata.org/entity/Q733786",
+      "s_wiki_title": "John Barnes (monk)",
+      "o_wiki_title": "Monk",
+      "s_pop": 69,
+      "o_pop": 33483,
+      "subject_doc_id": "popqa_subject_32086559"
+    }
+  },
+  "popqa_2513644": {
+    "id": "popqa_2513644",
+    "question": "What is Kekko Fornarelli's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer",
+      "pianist"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Kekko Fornarelli",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 1086409,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q3306885",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Kekko Fornarelli",
+      "o_wiki_title": "Composer",
+      "s_pop": 242,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_34422404"
+    }
+  },
+  "popqa_1046826": {
+    "id": "popqa_1046826",
+    "question": "What is T Power's occupation?",
+    "correct_answer": "record producer",
+    "correct_answers": [
+      "record producer",
+      "music producer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "T Power",
+      "prop": "occupation",
+      "obj": "record producer",
+      "subj_id": 448026,
+      "prop_id": 22,
+      "obj_id": 620958,
+      "s_uri": "http://www.wikidata.org/entity/Q16734680",
+      "o_uri": "http://www.wikidata.org/entity/Q183945",
+      "s_wiki_title": "T Power",
+      "o_wiki_title": "Record producer",
+      "s_pop": 406,
+      "o_pop": 42844,
+      "subject_doc_id": "popqa_subject_17229547"
+    }
+  },
+  "popqa_3228628": {
+    "id": "popqa_3228628",
+    "question": "What is Adil Shamoo's occupation?",
+    "correct_answer": "biochemist",
+    "correct_answers": [
+      "biochemist",
+      "biological chemist"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Adil Shamoo",
+      "prop": "occupation",
+      "obj": "biochemist",
+      "subj_id": 1384308,
+      "prop_id": 22,
+      "obj_id": 969816,
+      "s_uri": "http://www.wikidata.org/entity/Q4682818",
+      "o_uri": "http://www.wikidata.org/entity/Q2919046",
+      "s_wiki_title": "Adil Shamoo",
+      "o_wiki_title": "Biochemist",
+      "s_pop": 86,
+      "o_pop": 4483,
+      "subject_doc_id": "popqa_subject_16019630"
+    }
+  },
+  "popqa_5394014": {
+    "id": "popqa_5394014",
+    "question": "What is Patrick Mulvany's occupation?",
+    "correct_answer": "farmer",
+    "correct_answers": [
+      "farmer",
+      "agriculturist",
+      "grower",
+      "raiser",
+      "cultivator",
+      "agriculturer",
+      "farmer (occupation)",
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Patrick Mulvany",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 2398926,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q7147286",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Patrick Mulvany",
+      "o_wiki_title": "Politician",
+      "s_pop": 42,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_18709462"
+    }
+  },
+  "popqa_707302": {
+    "id": "popqa_707302",
+    "question": "What is Graham Collier's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer",
+      "bandleader",
+      "Wind band conductor",
+      "Harmony orchestra leader"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Graham Collier",
+      "prop": "occupation",
+      "obj": "bandleader",
+      "subj_id": 299750,
+      "prop_id": 22,
+      "obj_id": 2814823,
+      "s_uri": "http://www.wikidata.org/entity/Q1523857",
+      "o_uri": "http://www.wikidata.org/entity/Q806349",
+      "s_wiki_title": "Graham Collier",
+      "o_wiki_title": "Bandleader",
+      "s_pop": 548,
+      "o_pop": 2296,
+      "subject_doc_id": "popqa_subject_7249748"
+    }
+  },
+  "popqa_2738003": {
+    "id": "popqa_2738003",
+    "question": "What is Arcangelo Ghisleri's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Arcangelo Ghisleri",
+      "prop": "occupation",
+      "obj": "journalist",
+      "subj_id": 1176446,
+      "prop_id": 22,
+      "obj_id": 663400,
+      "s_uri": "http://www.wikidata.org/entity/Q3621417",
+      "o_uri": "http://www.wikidata.org/entity/Q1930187",
+      "s_wiki_title": "Arcangelo Ghisleri",
+      "o_wiki_title": "Journalist",
+      "s_pop": 85,
+      "o_pop": 24952,
+      "subject_doc_id": "popqa_subject_7112384"
+    }
+  },
+  "popqa_488360": {
+    "id": "popqa_488360",
+    "question": "What is Carlos María Ramírez's occupation?",
+    "correct_answer": "journalist",
+    "correct_answers": [
+      "journalist",
+      "journo",
+      "journalists",
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Carlos María Ramírez",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 200157,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q136059",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Carlos María Ramírez",
+      "o_wiki_title": "Politician",
+      "s_pop": 263,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_37748489"
+    }
+  },
+  "popqa_4032681": {
+    "id": "popqa_4032681",
+    "question": "What is Tina Sloan's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Tina Sloan",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 1762515,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q537239",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Tina Sloan",
+      "o_wiki_title": "Actor",
+      "s_pop": 381,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_1351804"
+    }
+  },
+  "popqa_969078": {
+    "id": "popqa_969078",
+    "question": "What is Andrew Trischitta's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Andrew Trischitta",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 412617,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q16237051",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Andrew Trischitta",
+      "o_wiki_title": "Actor",
+      "s_pop": 154,
+      "o_pop": 81374
+    }
+  },
+  "popqa_381474": {
+    "id": "popqa_381474",
+    "question": "What is Gerard Kennedy's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Gerard Kennedy",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 153998,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q1283072",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Gerard Kennedy (actor)",
+      "o_wiki_title": "Actor",
+      "s_pop": 1922,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_2852684"
+    }
+  },
+  "popqa_4245478": {
+    "id": "popqa_4245478",
+    "question": "What is Giora Godik's occupation?",
+    "correct_answer": "impresario",
+    "correct_answers": [
+      "impresario",
+      "Talent Manager"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Giora Godik",
+      "prop": "occupation",
+      "obj": "impresario",
+      "subj_id": 1860110,
+      "prop_id": 22,
+      "obj_id": 2908059,
+      "s_uri": "http://www.wikidata.org/entity/Q5563385",
+      "o_uri": "http://www.wikidata.org/entity/Q943995",
+      "s_wiki_title": "Giora Godik",
+      "o_wiki_title": "Impresario",
+      "s_pop": 98,
+      "o_pop": 10238,
+      "subject_doc_id": "popqa_subject_30460407"
+    }
+  },
+  "popqa_267222": {
+    "id": "popqa_267222",
+    "question": "What is Lillian Lawrence's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Lillian Lawrence",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 107871,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q11838668",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Lillian Lawrence",
+      "o_wiki_title": "Actor",
+      "s_pop": 208,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_38504596"
+    }
+  },
+  "popqa_1649869": {
+    "id": "popqa_1649869",
+    "question": "What is Philip Rosenberg's occupation?",
+    "correct_answer": "production designer",
+    "correct_answers": [
+      "production designer",
+      "art director",
+      "artistic coordinator"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Philip Rosenberg",
+      "prop": "occupation",
+      "obj": "production designer",
+      "subj_id": 732479,
+      "prop_id": 22,
+      "obj_id": 979852,
+      "s_uri": "http://www.wikidata.org/entity/Q2086416",
+      "o_uri": "http://www.wikidata.org/entity/Q2962070",
+      "s_wiki_title": "Philip Rosenberg",
+      "o_wiki_title": "Production designer",
+      "s_pop": 150,
+      "o_pop": 6927,
+      "subject_doc_id": "popqa_subject_20900567"
+    }
+  },
+  "popqa_5761278": {
+    "id": "popqa_5761278",
+    "question": "What is Sudarshan Faakir's occupation?",
+    "correct_answer": "lyricist",
+    "correct_answers": [
+      "lyricist",
+      "singer-lyricist"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Sudarshan Faakir",
+      "prop": "occupation",
+      "obj": "lyricist",
+      "subj_id": 2572937,
+      "prop_id": 22,
+      "obj_id": 2830871,
+      "s_uri": "http://www.wikidata.org/entity/Q7519232",
+      "o_uri": "http://www.wikidata.org/entity/Q822146",
+      "s_wiki_title": "Sudarshan Faakir",
+      "o_wiki_title": "Lyricist",
+      "s_pop": 1216,
+      "o_pop": 8836,
+      "subject_doc_id": "popqa_subject_29385120"
+    }
+  },
+  "popqa_5749211": {
+    "id": "popqa_5749211",
+    "question": "What is Shonali Bose's occupation?",
+    "correct_answer": "film director",
+    "correct_answers": [
+      "film director",
+      "movie director",
+      "director",
+      "motion picture director",
+      "screenwriter",
+      "scenarist",
+      "writer",
+      "screen writer",
+      "script writer",
+      "scriptwriter"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Shonali Bose",
+      "prop": "occupation",
+      "obj": "film director",
+      "subj_id": 2566815,
+      "prop_id": 22,
+      "obj_id": 854535,
+      "s_uri": "http://www.wikidata.org/entity/Q7500359",
+      "o_uri": "http://www.wikidata.org/entity/Q2526255",
+      "s_wiki_title": "Shonali Bose",
+      "o_wiki_title": "Film director",
+      "s_pop": 3556,
+      "o_pop": 45772,
+      "subject_doc_id": "popqa_subject_32292255"
+    }
+  },
+  "popqa_5930534": {
+    "id": "popqa_5930534",
+    "question": "What is Bruce Cockburn's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer",
+      "singer-songwriter",
+      "singer songwriter",
+      "singer/songwriter",
+      "singersongwriter",
+      "songwriter",
+      "song writer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Bruce Cockburn",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 2660203,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q773830",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Bruce Cockburn",
+      "o_wiki_title": "Composer",
+      "s_pop": 52017,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_91124"
+    }
+  },
+  "popqa_3369181": {
+    "id": "popqa_3369181",
+    "question": "What is Archibald Thomas Pechey's occupation?",
+    "correct_answer": "lyricist",
+    "correct_answers": [
+      "lyricist",
+      "singer-lyricist"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Archibald Thomas Pechey",
+      "prop": "occupation",
+      "obj": "lyricist",
+      "subj_id": 1448300,
+      "prop_id": 22,
+      "obj_id": 2830871,
+      "s_uri": "http://www.wikidata.org/entity/Q4786537",
+      "o_uri": "http://www.wikidata.org/entity/Q822146",
+      "s_wiki_title": "Archibald Thomas Pechey",
+      "o_wiki_title": "Lyricist",
+      "s_pop": 462,
+      "o_pop": 8836,
+      "subject_doc_id": "popqa_subject_7027838"
+    }
+  },
+  "popqa_873819": {
+    "id": "popqa_873819",
+    "question": "What is Thomas Challis's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Thomas Challis",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 370930,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q16065383",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Thomas Challis",
+      "o_wiki_title": "Politician",
+      "s_pop": 45,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_41108369"
+    }
+  },
+  "popqa_2873463": {
+    "id": "popqa_2873463",
+    "question": "What is Mariana Vicente's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Mariana Vicente",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 1231091,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q3847681",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Mariana Vicente",
+      "o_wiki_title": "Actor",
+      "s_pop": 10122,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_24487519"
+    }
+  },
+  "popqa_190883": {
+    "id": "popqa_190883",
+    "question": "What is Huntington Wilson's occupation?",
+    "correct_answer": "diplomat",
+    "correct_answers": [
+      "diplomat"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Huntington Wilson",
+      "prop": "occupation",
+      "obj": "diplomat",
+      "subj_id": 77163,
+      "prop_id": 22,
+      "obj_id": 665281,
+      "s_uri": "http://www.wikidata.org/entity/Q11327110",
+      "o_uri": "http://www.wikidata.org/entity/Q193391",
+      "s_wiki_title": "Huntington Wilson",
+      "o_wiki_title": "Diplomat",
+      "s_pop": 152,
+      "o_pop": 14886,
+      "subject_doc_id": "popqa_subject_29844213"
+    }
+  },
+  "popqa_650179": {
+    "id": "popqa_650179",
+    "question": "What is Gaziza Zhubanova's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Gaziza Zhubanova",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 274377,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q1491329",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Gaziza Zhubanova",
+      "o_wiki_title": "Composer",
+      "s_pop": 128,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_28963069"
+    }
+  },
+  "popqa_4007034": {
+    "id": "popqa_4007034",
+    "question": "What is Ek Yi Oun's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Ek Yi Oun",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 1750566,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q5350256",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Ek Yi Oun",
+      "o_wiki_title": "Politician",
+      "s_pop": 447,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_32779648"
+    }
+  },
+  "popqa_1888642": {
+    "id": "popqa_1888642",
+    "question": "What is Benjamin Mount's occupation?",
+    "correct_answer": "record producer",
+    "correct_answers": [
+      "record producer",
+      "music producer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Benjamin Mount",
+      "prop": "occupation",
+      "obj": "record producer",
+      "subj_id": 830098,
+      "prop_id": 22,
+      "obj_id": 620958,
+      "s_uri": "http://www.wikidata.org/entity/Q2447305",
+      "o_uri": "http://www.wikidata.org/entity/Q183945",
+      "s_wiki_title": "Ben Mount",
+      "o_wiki_title": "Record producer",
+      "s_pop": 758,
+      "o_pop": 42844,
+      "subject_doc_id": "popqa_subject_2411717"
+    }
+  },
+  "popqa_503998": {
+    "id": "popqa_503998",
+    "question": "What is Ivan Mládek's occupation?",
+    "correct_answer": "composer",
+    "correct_answers": [
+      "composer",
+      "songwriter",
+      "song writer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Ivan Mládek",
+      "prop": "occupation",
+      "obj": "composer",
+      "subj_id": 207169,
+      "prop_id": 22,
+      "obj_id": 1189033,
+      "s_uri": "http://www.wikidata.org/entity/Q1369539",
+      "o_uri": "http://www.wikidata.org/entity/Q36834",
+      "s_wiki_title": "Ivan Mládek",
+      "o_wiki_title": "Composer",
+      "s_pop": 990,
+      "o_pop": 28389,
+      "subject_doc_id": "popqa_subject_11580379"
+    }
+  },
+  "popqa_2604063": {
+    "id": "popqa_2604063",
+    "question": "What is Bala's occupation?",
+    "correct_answer": "film director",
+    "correct_answers": [
+      "film director",
+      "movie director",
+      "director",
+      "motion picture director",
+      "screenwriter",
+      "scenarist",
+      "writer",
+      "screen writer",
+      "script writer",
+      "scriptwriter"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Bala",
+      "prop": "occupation",
+      "obj": "film director",
+      "subj_id": 1122452,
+      "prop_id": 22,
+      "obj_id": 854535,
+      "s_uri": "http://www.wikidata.org/entity/Q3429883",
+      "o_uri": "http://www.wikidata.org/entity/Q2526255",
+      "s_wiki_title": "Bala (director)",
+      "o_wiki_title": "Film director",
+      "s_pop": 21931,
+      "o_pop": 45772,
+      "subject_doc_id": "popqa_subject_8089353"
+    }
+  },
+  "popqa_2464553": {
+    "id": "popqa_2464553",
+    "question": "What is Steve Tom's occupation?",
+    "correct_answer": "actor",
+    "correct_answers": [
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Steve Tom",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 1067322,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q3247208",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Steve Tom",
+      "o_wiki_title": "Actor",
+      "s_pop": 700,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_11120835"
+    }
+  },
+  "popqa_149790": {
+    "id": "popqa_149790",
+    "question": "What is Ilja Rosendahl's occupation?",
+    "correct_answer": "record producer",
+    "correct_answers": [
+      "record producer",
+      "music producer",
+      "actor",
+      "actress",
+      "actors",
+      "actresses"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Ilja Rosendahl",
+      "prop": "occupation",
+      "obj": "actor",
+      "subj_id": 60457,
+      "prop_id": 22,
+      "obj_id": 1114174,
+      "s_uri": "http://www.wikidata.org/entity/Q10981679",
+      "o_uri": "http://www.wikidata.org/entity/Q33999",
+      "s_wiki_title": "Ilja Rosendahl",
+      "o_wiki_title": "Actor",
+      "s_pop": 272,
+      "o_pop": 81374,
+      "subject_doc_id": "popqa_subject_39115606"
+    }
+  },
+  "popqa_378956": {
+    "id": "popqa_378956",
+    "question": "What is Ron Nyswaner's occupation?",
+    "correct_answer": "film director",
+    "correct_answers": [
+      "film director",
+      "movie director",
+      "director",
+      "motion picture director",
+      "screenwriter",
+      "scenarist",
+      "writer",
+      "screen writer",
+      "script writer",
+      "scriptwriter"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Ron Nyswaner",
+      "prop": "occupation",
+      "obj": "film director",
+      "subj_id": 153170,
+      "prop_id": 22,
+      "obj_id": 854535,
+      "s_uri": "http://www.wikidata.org/entity/Q1281149",
+      "o_uri": "http://www.wikidata.org/entity/Q2526255",
+      "s_wiki_title": "Ron Nyswaner",
+      "o_wiki_title": "Film director",
+      "s_pop": 1186,
+      "o_pop": 45772,
+      "subject_doc_id": "popqa_subject_3142610"
+    }
+  },
+  "popqa_1809727": {
+    "id": "popqa_1809727",
+    "question": "What is Thanasis Pafilis's occupation?",
+    "correct_answer": "politician",
+    "correct_answers": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Thanasis Pafilis",
+      "prop": "occupation",
+      "obj": "politician",
+      "subj_id": 798418,
+      "prop_id": 22,
+      "obj_id": 2834605,
+      "s_uri": "http://www.wikidata.org/entity/Q2338958",
+      "o_uri": "http://www.wikidata.org/entity/Q82955",
+      "s_wiki_title": "Thanasis Pafilis",
+      "o_wiki_title": "Politician",
+      "s_pop": 285,
+      "o_pop": 25692,
+      "subject_doc_id": "popqa_subject_1478731"
+    }
+  },
+  "popqa_2111491": {
+    "id": "popqa_2111491",
+    "question": "What is Nicholas Sanduleak's occupation?",
+    "correct_answer": "astronomer",
+    "correct_answers": [
+      "astronomer"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Nicholas Sanduleak",
+      "prop": "occupation",
+      "obj": "astronomer",
+      "subj_id": 924257,
+      "prop_id": 22,
+      "obj_id": 64448,
+      "s_uri": "http://www.wikidata.org/entity/Q2744653",
+      "o_uri": "http://www.wikidata.org/entity/Q11063",
+      "s_wiki_title": "Nicholas Sanduleak",
+      "o_wiki_title": "Astronomer",
+      "s_pop": 107,
+      "o_pop": 12368,
+      "subject_doc_id": "popqa_subject_13334079"
+    }
+  },
+  "popqa_262900": {
+    "id": "popqa_262900",
+    "question": "What is Christopher Butson's occupation?",
+    "correct_answer": "priest",
+    "correct_answers": [
+      "priest",
+      "reverend",
+      "priestess"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Christopher Butson",
+      "prop": "occupation",
+      "obj": "priest",
+      "subj_id": 106064,
+      "prop_id": 22,
+      "obj_id": 1291475,
+      "s_uri": "http://www.wikidata.org/entity/Q11805289",
+      "o_uri": "http://www.wikidata.org/entity/Q42603",
+      "s_wiki_title": "Christopher Butson (priest)",
+      "o_wiki_title": "Priest",
+      "s_pop": 56,
+      "o_pop": 20534,
+      "subject_doc_id": "popqa_subject_38119086"
+    }
+  },
+  "popqa_5358173": {
+    "id": "popqa_5358173",
+    "question": "What is Otto Frankel's occupation?",
+    "correct_answer": "geneticist",
+    "correct_answers": [
+      "geneticist"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Otto Frankel",
+      "prop": "occupation",
+      "obj": "geneticist",
+      "subj_id": 2381557,
+      "prop_id": 22,
+      "obj_id": 1030612,
+      "s_uri": "http://www.wikidata.org/entity/Q7109590",
+      "o_uri": "http://www.wikidata.org/entity/Q3126128",
+      "s_wiki_title": "Otto Frankel",
+      "o_wiki_title": "Geneticist",
+      "s_pop": 220,
+      "o_pop": 3476,
+      "subject_doc_id": "popqa_subject_6227124"
+    }
+  },
+  "popqa_4349875": {
+    "id": "popqa_4349875",
+    "question": "What is Hate Man's occupation?",
+    "correct_answer": "philosopher",
+    "correct_answers": [
+      "philosopher"
+    ],
+    "dataset": "popqa",
+    "metadata": {
+      "subj": "Hate Man",
+      "prop": "occupation",
+      "obj": "philosopher",
+      "subj_id": 1910680,
+      "prop_id": 22,
+      "obj_id": 1543144,
+      "s_uri": "http://www.wikidata.org/entity/Q5681199",
+      "o_uri": "http://www.wikidata.org/entity/Q4964182",
+      "s_wiki_title": "Hate Man",
+      "o_wiki_title": "Philosopher",
+      "s_pop": 257,
+      "o_pop": 25747,
+      "subject_doc_id": "popqa_subject_26918063"
+    }
+  }
+}
