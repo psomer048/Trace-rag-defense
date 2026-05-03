@@ -23,9 +23,6 @@ This artifact contains a minimal but executable reproduction package for the cor
   - `results/models/ACTIVE_POISON_SCORER.pkl`
   - `results/models/poison_rf_v2_bioasq_w134_clean_answerhit_gs4.pkl`
   - `train_model.py`
-- Optional GT-injection helper:
-  - moved to `PENDING_FOR_USER/cleanup_round_20260503/src_unused/gt_generator.py`
-  - not required for PopQA subject_200 reproduction
 - Environment:
   - `requirements.txt`
   - `environment.yml`
