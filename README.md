@@ -45,7 +45,7 @@ Generated private configs are written to `model_configs/private/` and are not in
 ## Quick Start (Small Reproduction Run)
 
 ```bash
-HF_ENDPOINT=https://hf-mirror.com conda run --no-capture-output -n RPD python main_defense.py \
+ conda run --no-capture-output -n RPD python main_defense.py \
   --model_name glm-4.5-air \
   --model_config_path model_configs/private/glm-4.5-air.json \
   --eval_dataset popqa \
@@ -90,8 +90,3 @@ python train_model.py \
 - This artifact provides a compact executable pipeline for review.
 - Full-scale experiments may require substantial API budget.
 
-## Safety Check
-
-```bash
-bash scripts/scan_sensitive.sh
-```
