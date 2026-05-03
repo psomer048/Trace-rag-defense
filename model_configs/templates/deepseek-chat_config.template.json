@@ -1,0 +1,22 @@
+{
+  "model_info": {
+    "provider": "deepseek",
+    "backend": "api",
+    "name": "deepseek-chat"
+  },
+  "api_key_info": {
+    "api_keys": [
+      "<YOUR_DEEPSEEK_API_KEY>"
+    ],
+    "api_key_use": 0
+  },
+  "params": {
+    "temperature": 0.5,
+    "seed": 42,
+    "max_output_tokens": 4096,
+    "gpus": [],
+    "timeout": 180.0,
+    "max_retries": 3,
+    "retry_backoff": 2.0
+  }
+}

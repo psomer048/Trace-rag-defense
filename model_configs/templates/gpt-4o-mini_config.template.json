@@ -1,0 +1,19 @@
+{
+  "model_info": {
+    "provider": "gpt",
+    "backend": "api",
+    "name": "gpt-4o-mini"
+  },
+  "api_key_info": {
+    "api_keys": [
+      "<YOUR_OPENAI_API_KEY>"
+    ],
+    "api_key_use": 0
+  },
+  "params": {
+    "temperature": 0.5,
+    "seed": 42,
+    "max_output_tokens": 2048,
+    "gpus": []
+  }
+}

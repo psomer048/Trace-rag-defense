@@ -1,0 +1,38 @@
+﻿# Python cache/artifacts
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.coverage*
+htmlcov/
+
+# Virtual envs / local tooling
+.env
+.env.*
+.venv/
+venv/
+ENV/
+.python-version
+
+# IDE
+.vscode/
+.idea/
+
+# Local datasets and outputs (do not publish by default)
+datasets/
+logs/
+results/*
+!results/models/
+!results/models/README.md
+!results/models/ACTIVE_POISON_SCORER.pkl
+!results/models/poison_rf_v2_bioasq_w134_clean_answerhit_gs4.pkl
+
+# Sensitive configs
+model_configs/private/
+model_configs/*_local.json
+
+# Runtime byproducts
+nohup.out
+*.log
+*.tmp
